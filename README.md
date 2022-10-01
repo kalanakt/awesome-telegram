@@ -77,7 +77,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/k
     - [File Store Bots](#file-store-bots)
     - [Leech Bots](#leech-bots)
  
-  - [Telegram Libraries]((#telegram-libraries)
+  - [Telegram Libraries](#telegram-libraries)
     - [Java](#java)
     - [Java Script](#java-script)
     - [TypeScript](#typeScript)
