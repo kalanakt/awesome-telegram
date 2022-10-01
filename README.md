@@ -20,7 +20,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/k
 
   - [About](#about)
   
-  - [Downloads](#downloads)
+  - [Apps](#apps)
   
   - [Telegram Groups](#telegram-groups)
     - [Animal Groups](#animal-groups)
@@ -90,3 +90,51 @@ Please take a quick gander at the [contribution guidelines](https://github.com/k
     - [Node.js](#node.js)
     - [.NET](#.net)
     - [Other Languages](#other-languages)
+
+
+## About 
+
+> Telegram is a globally accessible freemium, cross-platform, cloud-based instant messaging service. The service also provides optional end-to-end encrypted chats and video calling, VoIP, file sharing and several other features. It was launched for iOS on 14 August 2013 and Android on 20 October 2013.
+
+## Apps
+
+> Pure instant messaging — simple, fast, secure, and synced across all your devices. One of the world's top 10 most downloaded apps with over 500 million active users.
+
+<table>
+  <tr>
+    <th><h4>Mobile apps</h4></th>
+    <th><h4>Desktop apps</h4></th>
+    <th><h4>Web apps</h4></th>
+  </tr>
+  
+  <tr>
+    <td> 
+    <h4><a href="https://telegram.org/android">Telegram for Android</a></h4>
+    </td>
+    <td> 
+    <h4><a href="https://desktop.telegram.org/">Telegram for Windows/Mac/Linux</a></h4>
+    </td> 
+    <td> 
+    <h4><a href="https://telegram.org/dl/webk">Telegram WebK</a></h4>
+    </td>
+    
+  </tr>
+  <tr>
+    <td> 
+    <h4><a href="https://telegram.org/dl/ios">Telegram for iPhone and iPad</a></h4>
+    </td>
+    <td> 
+    <h4><a href="https://macos.telegram.org/">Telegram for macOS</a></h4>
+    </td>
+    <td> 
+    <h4><a href="https://telegram.org/dl/webz">Telegram WebZ</a></h4>
+    </td>
+  </tr>
+</table>
+
+## Telegram Groups
+
+### Animal Groups
+
+- __[Living Ocean](https://t.me/livingocean)__ : _Channel for lovers of rivers, seas and oceans. Dive with us!_
+- __[DogData Channel](https://t.me/Dogdata)__ : _DogData ecosystem will help dogs welfare and promote the necessary sensible personal and social awareness of the responsibility of dog ownership_
