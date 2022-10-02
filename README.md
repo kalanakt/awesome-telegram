@@ -15,6 +15,13 @@
   [![Track Awesome List](https://www.trackawesomelist.com/badge.svg)](https://www.trackawesomelist.com/kalanakt/awesome-telegram/)
   [![Deploy static content to Pages](https://github.com/kalanakt/awesome-telegram/actions/workflows/pages.yml/badge.svg)](https://github.com/kalanakt/awesome-telegram/actions/workflows/pages.yml)
   
+  Add Awesome Telegram Batch 
+  
+  ```
+  ![Awesome Telegram](https://cdn.jsdelivr.net/gh/kalanakt/awesome-telegram@a681ddb4e5e432704a7f1c89b97bbfa3dee28594/assets/Awesome%20Telegram.svg)
+  ```
+  ![Awesome Telegram](https://cdn.jsdelivr.net/gh/kalanakt/awesome-telegram@a681ddb4e5e432704a7f1c89b97bbfa3dee28594/assets/Awesome%20Telegram.svg)
+  
   ## Contents
   
   - [Awesome Telegram](#awesome-telegram)
