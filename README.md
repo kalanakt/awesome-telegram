@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="300" src="./assets/logo.svg" alt="logo of kalanakt/awesome-telegram repository">
+    <img title="Awesome Telegram" width="300" src="./assets/logo.svg" alt="logo of kalanakt/awesome-telegram repository">
   </p>
   
   # Awesome Telegram
@@ -239,7 +239,7 @@
   
   ### Music Bots
   
-  - __[Music Downloader 🎵](https://t.me/songdl_bot)__ : _Music downloader bot. Download songs directly by just sending Spotify song link, Gaana song link, Youtube link. Bot can also recognize voice message and text messages. It can also download Playlists and Albums from JioSaavn._
+  - __[Music Downloader Bot](https://t.me/songdl_bot)__ : _Music downloader bot. Download songs directly by just sending Spotify song link, Gaana song link, Youtube link. Bot can also recognize voice message and text messages. It can also download Playlists and Albums from JioSaavn._
   - __[Lyrics Bot](https://t.me/find_lyrics_bot)__ : _This bot can send you lyrics of songs you want._
   
   ### Movie And Tv Series Bots
@@ -275,7 +275,7 @@
   ### Books And Pdf Bots
   
   - __[Book March Bot](https://t.me/bookmarchbot)__ : _BookmarchBot saves your favorite links so you can easily find & send them later._
-  - __[Bible Book Bot](BibleBookBothttps://t.me/BibleBookBot)__ : _Search the Bible. This bot works inline mode also._
+  - __[Bible Book Bot](https://t.me/BibleBookBot)__ : _Search the Bible. This bot works inline mode also._
   
   ### Sticker Bots
   
@@ -293,6 +293,72 @@
   - __[Livegram Bot](https://t.me/LivegramBot)__ : _Livegram Bot is a builder of feedback bots for Telegram. This can be used to broadcast messages, get feedback messages in groups, get bot statistics and more._
   
   
+  ## OpenSource
+  
+  ### OpenSource Apps
+  - __[Telegram Database Library](https://github.com/tdlib/td)__ : _Cross-platform library for building custom Telegram apps, see [TDLib](https://core.telegram.org/tdlib) for details._
+  - __[Telegram for Android](https://github.com/DrKLO/Telegram)__ : _Official Android App, see [Google Play Market page](https://telegram.org/dl/android) for full description._
+  - __[Telegram for iOS](https://github.com/TelegramMessenger/Telegram-iOS)__ 
+  - __[Telegram for macOS](https://github.com/overtake/TelegramSwift)__ : _Telegram for macOS._
+  - __[Telegram Web, Version K](https://github.com/morethanwords/tweb)__ : _Mac, Windows, Linux, Mobile._
+  - __[Telegram Web, Version Z](https://github.com/Ajaxy/telegram-tt)__ : _Mac, Windows, Linux, Mobile._
+  - __[Legacy JavaScript client](https://github.com/zhukov/webogram)__ : _Mac, Windows, Linux._
+  - __[Telegram React](https://github.com/evgeny-nadymov/telegram-react)__ : _JavaScript client for browsers. Mac, Windows, Linux._
+  - __[Telegram Desktop](https://github.com/telegramdesktop/tdesktop)__ : _Qt-based desktop client. Mac, Windows, Linux._
+  - __[Telegram for WP](https://github.com/evgeny-nadymov/telegram-wp)__ : _Telegram Messenger for Windows Phone_
+  - __[Telegram CLI](https://github.com/vysheng/tg)__ : _Linux Command-line interface for Telegram._
+  - __[Unigram ](https://github.com/UnigramDev/Unigram)__ : _A Telegram client optimized for Windows 10 (desktop and Xbox One)._
+  - __[MadelineProto ](https://github.com/danog/MadelineProto)__ : _A PHP MTProto Telegram client._
+
+
+  ### OpenSource Bots
+  
+  #### OpenSource Auto Filter Bots
+  - __[Adv Auto Filter Bot](https://github.com/CrazyBotsz/Adv-Auto-Filter-Bot)__ : _A Advanced Auto Filter Bot Which Can Be Used In Many Groups With Multiple Channel Support.._
+  - __[Adv Auto Filter Bot V2](https://github.com/CrazyBotsz/Adv-Auto-Filter-Bot-V2)__ : _An advance automatic filter bot for filtering files and media in a telegram chat._
+  - __[Auto Filter Bot V2](https://github.com/TroJanzHEX/Auto-Filter-Bot-V2)__
+  
+  - __[IMDb Auto Filter Bot](https://github.com/kalanakt/IMDb-Auto-Filter-Bot)__ : _Auto-filter Bot With IMDb Poster._
+  - __[Eva Maria Editors' Choice](https://github.com/kalanakt/EvaMaria_Editors_Choice)__ : _Editors' Choice of Eva Maria Telegram Bot_
+  
+  #### OpenSource Filter Bots
+  - __[Unlimited Filter Bot](https://github.com/TroJanzHEX/Unlimited-Filter-Bot)__ : _An advanced Filter Bot with nearly unlimited filters!_
+  - __[Filter Bot](https://github.com/Jijinr/Filter-Bot)__
+  
+  #### OpenSource Group Manager Bots
+  - __[Amelia Group Bot](https://github.com/xAbhish3k/AmeliaRobot)__ : _An Anime Theme Telegram group management bot. With lot of features._
+  - __[Alita Robot](https://github.com/DivideProjects/Alita_Robot)__ : _Alita is a Telegram Group management bot made using Pyrogram and Python, which makes it modern and faster than most of the Telegram chat managers._
+  - __[Marie-2.0](https://github.com/TGExplore/Marie-2.0-English)__ 
+  - __[Saitama Robot](https://github.com/AnimeKaizoku/SaitamaRobot)__ : _An anime-themed telegram group management bot._
+
+  #### OpenSource User Bots
+  - __[Asena UserBot](https://github.com/yusufusta/AsenaUserBot)__ : _Asena UserBot is the most advantageous and fast UserBot with changeable language and permanent plugin system._
+  - __[CatUserbot](https://github.com/TgCatUB/catuserbot)__ : _A simple Telegram userbot based on Telethon_
+  - __[Dragon Userbot](https://github.com/Dragon-Userbot/Dragon-Userbot)__ : _Userbot for telegram with easiest installation_
+  - __[Ridogram](https://github.com/iniridwanul/Ridogram)__ : _https://github.com/iniridwanul/Ridogram_
+  - __[Userge](https://github.com/UsergeTeam/Userge)__ : _Pluggable Telegram UserBot_
+  - __[Ultroid](https://github.com/TeamUltroid/Ultroid)__ : _Advanced Multi-Featured Telegram UserBot, Built in Python Using Telethon lib._
+
+  #### OpenSource Download Bots
+  - __[Youtube Dl bot](https://github.com/aryanvikash/Youtube-Downloader-Bot)__
+  - __[X URL Uploader](https://github.com/X-Gorn/X-URL-Uploader)__ : _Telegram bot to upload HTTP/HTTPS direct link & youtube-dl, clone of TG-URL-Uploader_
+  - __[All Url Uploader](https://github.com/kalanakt/All-Url-Uploader)__ : _A simple telegram Bot, Upload Media File| video To telegram using the direct download link. (youtube, Mediafire, google drive, mega drive, etc)._
+
+  #### OpenSource File Store Bots
+  - __[File sharing Bot](https://github.com/CodeXBotz/File-Sharing-Bot)__ : _Telegram Bot to store Posts and Documents and it can Access by Special Links._
+  - __[Pyro FilesStore Bot](https://github.com/AbirHasan2005/PyroFilesStoreBot)__ : _This is Telegram Files Store Bot by [@AbirHasan2005](https://github.com/AbirHasan2005)_
+  - __[FileStore Bot](https://github.com/avipatilpro/FileStoreBot)__ : _Telegram Files Store Bot with Permeant Sharable Links by [@avipatilpro](https://github.com/avipatilpro)._
+
+  #### OpenSource Music Bots
+  - __[Remix](https://github.com/callsmusic/remix)__ : _Powerful Telegram music bot._
+  - __[MusicPlayer](https://github.com/subinps/MusicPlayer)__ : _Telegram Bot to play music in VoiceChat with Channel Support and autostarts Radio._
+  - __[YukkiMusic Bot](https://github.com/TeamYukki/YukkiMusicBot)__ : _Telegram Group Calls Streaming bot with some useful features, written in Python with Pyrogram and Py-Tgcalls. Supporting platforms like Youtube, Spotify, Resso, AppleMusic, Soundcloud and M3u8 Links._
+
+  #### OpenSource Other Bots
+  - __[freqtrade](https://github.com/freqtrade/freqtrade)__ : _Free, open source crypto trading bot_
+  - __[rss bot](https://github.com/iovxw/rssbot)__ : _Lightweight Telegram RSS notification bot._
+
+
   ## Telegram Libraries
   
   ### PHP
