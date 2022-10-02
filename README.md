@@ -18,9 +18,9 @@
   Add Awesome Telegram Batch 
   
   ```
-  ![Awesome Telegram](https://cdn.jsdelivr.net/gh/kalanakt/awesome-telegram@a681ddb4e5e432704a7f1c89b97bbfa3dee28594/assets/Awesome%20Telegram.svg)
+  [![Awesome Telegram](https://cdn.jsdelivr.net/gh/kalanakt/awesome-telegram@a681ddb4e5e432704a7f1c89b97bbfa3dee28594/assets/Awesome%20Telegram.svg)](https://github.com/kalanakt/awesome-telegram)
   ```
-  ![Awesome Telegram](https://cdn.jsdelivr.net/gh/kalanakt/awesome-telegram@a681ddb4e5e432704a7f1c89b97bbfa3dee28594/assets/Awesome%20Telegram.svg)
+  [![Awesome Telegram](https://cdn.jsdelivr.net/gh/kalanakt/awesome-telegram@a681ddb4e5e432704a7f1c89b97bbfa3dee28594/assets/Awesome%20Telegram.svg)](https://github.com/kalanakt/awesome-telegram)
   
   ## Contents
   
