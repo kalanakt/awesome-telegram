@@ -453,7 +453,7 @@
 
 <p align="center">
 	<a href="https://github.com/kalanakt/awesome-telegram/stargazers">Star : awesome-telegram</a>&nbsp;&nbsp;&nbsp;
-	<a href="contributing.md">Contribution guide</a>&nbsp;&nbsp;&nbsp;
+	<a href="https://github.com/kalanakt/awesome-telegram/blob/main/Contributing.md">Contribution guide</a>&nbsp;&nbsp;&nbsp;
 	<a href="https://github.com/kalanakt/awesome-telegram/edit/main/README.md">Add Your Content</a>&nbsp;&nbsp;&nbsp;
 	<a href="https://github.com/kalanakt/awesome-telegram/discussions">Discussions</a>&nbsp;&nbsp;&nbsp;
 	<a href="https://github.com/kalanakt/awesome-telegram/issues">Report Issue</a>
