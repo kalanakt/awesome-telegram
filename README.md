@@ -7,7 +7,7 @@
   
   **Contributing:**
   
-  Please take a quick gander at the [contribution guidelines](https://github.com/kalanakt/awesome-telegram/blob/master/CONTRIBUTING.md) first. Thanks to all [contributors](https://github.com/kalanakt/awesome-telegram/graphs/contributors); you rock!
+  Please take a quick gander at the [contribution guidelines](https://github.com/kalanakt/awesome-telegram/blob/main/Contributing.md) first. Thanks to all [contributors](https://github.com/kalanakt/awesome-telegram/graphs/contributors); you rock!
   
   > _You'r P.R. is welcome add your telegram group/ channel/ bot And apis And also If you see a content here that is no longer maintained or is not a good fit, please submit a pull request to improve this file. Thank you!_
   
