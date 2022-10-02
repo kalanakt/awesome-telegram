@@ -228,7 +228,7 @@
   ### Technology Channels
   
   - __[Programming Tips](https://t.me/ProgrammingTip)__ : _Useful channel if you are a programmer. Join for Programming tips, design pattern, software principle._
-  - __[Telegram Tips✔](https://t.me/TelegramTips)__ : _Telegram has tons of feature. This official channel from Telegram show how to use the features._
+  - __[Telegram Tips](https://t.me/TelegramTips)__ : _Telegram has tons of feature. This official channel from Telegram show how to use the features._
   
   ### Other Channels
   
