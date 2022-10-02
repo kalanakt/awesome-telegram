@@ -5,15 +5,16 @@
   # Awesome Telegram
   > A curated list of awesome things related to Telegram groups, channels, bots, apis
   
+  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+  [![Awesome Telegram](https://cdn.jsdelivr.net/gh/kalanakt/awesome-telegram@24ddbd85dde88890615abc707517e1f2ab33b493/assets/Awesome%20Telegram.svg)](https://github.com/kalanakt/awesome-telegram)
+  [![Track Awesome List](https://www.trackawesomelist.com/badge.svg)](https://www.trackawesomelist.com/kalanakt/awesome-telegram/)
+  [![Deploy static content to Pages](https://github.com/kalanakt/awesome-telegram/actions/workflows/pages.yml/badge.svg)](https://github.com/kalanakt/awesome-telegram/actions/workflows/pages.yml)
+  
   **Contributing:**
   
   Please take a quick gander at the [contribution guidelines](https://github.com/kalanakt/awesome-telegram/blob/main/Contributing.md) first. Thanks to all [contributors](https://github.com/kalanakt/awesome-telegram/graphs/contributors); you rock!
   
   > _You'r P.R. is welcome add your telegram group/ channel/ bot And apis And also If you see a content here that is no longer maintained or is not a good fit, please submit a pull request to improve this file. Thank you!_
-  
-  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-  [![Track Awesome List](https://www.trackawesomelist.com/badge.svg)](https://www.trackawesomelist.com/kalanakt/awesome-telegram/)
-  [![Deploy static content to Pages](https://github.com/kalanakt/awesome-telegram/actions/workflows/pages.yml/badge.svg)](https://github.com/kalanakt/awesome-telegram/actions/workflows/pages.yml)
   
   Add Awesome Telegram Batch 
   
