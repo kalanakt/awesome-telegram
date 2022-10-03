@@ -461,6 +461,16 @@
 
 <br><br>
 
+## Contributors
+
+<a href="https://github.com/kalanakt/awesome-telegram/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=kalanakt/awesome-telegram" />
+</a>
+
+_Made with [contrib.rocks](https://contrib.rocks)._
+
+<br><br>
+
 <p align="center">
 	<a href="https://github.com/kalanakt/awesome-telegram/stargazers">Star : awesome-telegram</a>&nbsp;&nbsp;&nbsp;
 	<a href="https://github.com/kalanakt/awesome-telegram/blob/main/Contributing.md">Contribution guide</a>&nbsp;&nbsp;&nbsp;
