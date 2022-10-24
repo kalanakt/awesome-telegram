@@ -3,7 +3,7 @@
   </p>
   
   # Awesome Telegram
-  > A curated list of awesome things related to Telegram groups, channels, bots, apis
+  > A curated list of awesome things related to Telegram bots, apis, opensouce
   
   [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
   [![Awesome Telegram](https://cdn.jsdelivr.net/gh/kalanakt/awesome-telegram@24ddbd85dde88890615abc707517e1f2ab33b493/assets/Awesome%20Telegram.svg)](https://github.com/kalanakt/awesome-telegram)
@@ -14,7 +14,7 @@
   
   Please take a quick gander at the [contribution guidelines](https://github.com/kalanakt/awesome-telegram/blob/main/Contributing.md) first. Thanks to all [contributors](https://github.com/kalanakt/awesome-telegram/graphs/contributors); you rock!
   
-  > _You'r P.R. is welcome add your telegram group/ channel/ bot And apis And also If you see a content here that is no longer maintained or is not a good fit, please submit a pull request to improve this file. Thank you!_
+  > _You'r P.R. is welcome add your telegram bot And apis And also If you see a content here that is no longer maintained or is not a good fit, please submit a pull request to improve this file. Thank you!_
   
   Add Awesome Telegram Batch 
   
@@ -34,30 +34,6 @@
     - [About](#about)
     
     - [Apps](#apps)
-    
-    - [Telegram Groups](#telegram-groups)
-      - [Art And Design Groups](#art-and-design-groups)
-      - [Book And Magazine Groups](#book-and-magazine-groups)
-      - [Chat Groups](#chat-groups)
-      - [Cryptocurrency Groups](#cryptocurrency-groups)
-      - [Education Groups](#education-groups)
-      - [Games And Apps Groups](#games-and-apps-groups)
-      - [Movies And Tv Series Groups](#movies-and-tv-series-groups)
-      - [Music Groups](#music-groups)
-      - [Technology Groups](#technology-groups)
-      - [Other Groups](#other-groups)
-    
-    - [Telegram Channels](#telegram-channels)
-      - [Art And Design Channels](#art-and-design-channels)
-      - [Book And Magazine Channels](#book-and-magazine-channels)
-      - [Cryptocurrency Channels](#cryptocurrency-channels)
-      - [Education Channels](#education-channels)
-      - [Entertainment Channels](#entertainment-channels)
-      - [Games And Apps Channels](#games-and-apps-channels)
-      - [Movies And Tv Series Channels](#movies-and-tv-series-channels)
-      - [Music Channels](#music-channels)
-      - [Technology Channels](#technology-channels)
-      - [Other Channels](#other-channels)
       
     - [Telegram Bots](#telegram-bots)
       - [Music Bots](#music-bots)
@@ -137,117 +113,6 @@
       </td>
     </tr>
   </table>
-  
-  ## Telegram Groups
-  
-  
-  ### Art And Design Groups
-  
-  - __[Art Plays](https://t.me/artplays_art)__ : _A channel about art, paintings, drawing lessons and creative people._
-  - __[Art](https://t.me/art_exposition)__ : _Art in your pocket_
-  
-  
-  ### Book And Magazine Groups
-  
-  - __[Crime Stories ️](https://t.me/crimestoryy)__ : _Interesting crime stories you won't find anywhere else on telegram._
-  - __[Engineering Books](https://t.me/embedded_library)__ : _The best books about engineering. Mechanics, electronics, mathematics, programming and much more! Subscribe to get free books every week!_
-  
-  
-  ### Chat Groups
-  
-  - __[FRIENDS](https://telegram.me/NewFriendChat)__ : _Find your new friend, All countries, all nation._
-  - __[Fun chatting group](https://telegram.me/English_Fun_Group)__ : _Fun chatting group._
-  
-  ### Cryptocurrency Groups
-  
-  - __[Crypto.com Trading Signals](https://t.me/cryptocom_tradingsignals)__ : _This is the Crypto.com official community, creator of the fastest growing crypto ecosystem! We offer high Quality Signals for BINANCE, BYBIT, BITTREX, etc._
-  - __[Nfts / Metaverse & More](https://t.me/defi_trading_nfts_metaverse)__ : _A Latest News, alerts & NFT's. Follow to know the Top Coins of 2022_
-  
-  ### Education Groups
-  
-  - __[Data Science, ML &AI Nugget Chats](https://t.me/DatascienceChats)__ : _Discussion community for DS, ML, IOT, AI, DEEP LEARNING amd much more.._
-  - __[C/C++](https://t.me/programminginc)__ : _International telegram group of C/C++ programming._
-  
-  ### Games And Apps Groups
-  
-  - __[Jugad PUBG Chat Group](https://t.me/jugadpubggrp)__ : _Jugad PUBG Chat Group._
-  - __[PC Games Support](https://t.me/pc_game_down_support)__ : _Best Telegram group to discuss on PC games._
-  
-  ### Movies And Tv Series Groups
-  
-  - __[Spacious Universe](https://t.me/spaciousuniversegroup1)__ : _A Group Cinema Lovers_
-  - __[Anime Chat](https://t.me/Anime_Chat_Group_ACG)__ : _A group that is made for discussion purposes dedicated to anime community._
-  - __[Filmykeedha](https://t.me/+oheEij7NzSExZjQ1)__ : _A Group for all types Movies and Webseries Search_
-  ### Music Groups
-  
-  - __[Spotify Group](https://t.me/SpotifyGroup)__ : _Chat group to discuss about music and to request others for music or link_
-  - __[Music Land](https://t.me/tgMusicland)__ : _New and old Album, movies and devotional songs in all languages._
-  
-  ### Technology Groups
-  
-  - __[Python](https://t.me/python)__ : _Telegram public chat room for discussion about the Python programming language._
-  - __[Telegram Android Talk](https://t.me/TelegramAndroidTalk)__ : _Telegram chat group to talk about android._
-  
-  ### Other Groups
-  
-  - __[Spiritual Group](https://t.me/SpiritualGroup)__ : _It is a forum for spiritual seekers to discuss the philosophical and spiritual wisdom of Sanatana Dharma._
-  
-  
-  
-  ## Telegram Channels
-  
-
-  ### Art And Design Channels
-  
-  - __[WALLPAPER](https://t.me/bestwallpapes)__ : _Best channel on Telegram to download HD wallpapers._
-  - __[Private Art](https://t.me/privateart)__ : _Channel to find best painting in the world._
-  - __[Shutterstock Adobestock Free Download](https://t.me/gfxload)__ : _Free Download Adobestock and Shutterstock premium stock photos, vectors and images._
-  
-  ### Book And Magazine Channels
-  
-  - __[Engineering E-Books ™](https://t.me/Engineering_Ebooks1)__ : _You will get all Engineering branches E-Books , Articles , Exam Related Books Etc._
-  - __[EBooks & Magazines](https://t.me/English_Hindi_Novels_Magazine)__ : _Best English EBooks and magazine in PDF format for all._
-  
-  ### Cryptocurrency Channels
-  
-  - __[Crypto Miami](https://t.me/crypto_miami)__ : _Latest Cryptocurrency and Blockhchain news._
-  - __[Bitcoin Industry](https://t.me/bitcoin_industry)__ : _Publishing news from the crypto industry faster than anyone else_
-  
-  ### Education Channels
-  
-  - __[Did You Know](https://t.me/Didyoureallyknow)__ : _Join this channel to learn something new everyday._
-  - __[The Front End](https://t.me/thefrontend)__ : _News, Articles, Tutorials, UI/UX thoughts on front end. mobile and web dev._
-  - 
-  ### Entertainment Channels
-  
-  - __[Epic Memes and Jokes](https://t.me/DailyEpicMemes)__ : _Meme hub. Follow for best sarcastic jokes, Memes, GIFs and much more_
-  - __[Memes](https://t.me/bestmemes)__ : _Best channel for jokes and Memes. They post regularly and they totally worth it!._
-  
-  ### Games And Apps Channels
-  
-  - __[Clash Of Clans Official](https://t.me/ClashOfClans)__ : _Official clash of clan telegram channel. Join to get quick update on your favorite game.._
-  - __[AndroGamer](https://t.me/AndroGamer)__ : _AndroGaмєr - The Dreamland of mods and Tricks!!_
-  
-  ### Movies And Tv Series Channels
-  
-  - __[Ensemble](https://t.me/ensembly)__ : _Spreading happiness one show at a time._
-  - __[Ongoing Series Channel](https://t.me/Ongoing_Series_Channel)__ : _A channel for onging tv serieses_
-  
-  ### Music Channels
-  
-  - __[Selena Gomez](https://t.me/Selena_FanClub)__ : _Selena Gomez Fan club. Join for Music, photos, live performance, ReMix, Events, TVShows, Interview, Wallpaper and more._
-  - __[English songs and lyrics](https://t.me/Songs_Lyrics_in_English)__ : _Get English Lyrics for any songs._
-  
-
-  ### Technology Channels
-  
-  - __[Programming Tips](https://t.me/ProgrammingTip)__ : _Useful channel if you are a programmer. Join for Programming tips, design pattern, software principle._
-  - __[Telegram Tips](https://t.me/TelegramTips)__ : _Telegram has tons of feature. This official channel from Telegram show how to use the features._
-  
-  ### Other Channels
-  
-  - __[Science](https://t.me/science)__ : _Best channel on Telegram to get science related articles and videos._
-  
   
   ## Telegram Bots
   
