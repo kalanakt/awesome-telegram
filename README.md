@@ -193,16 +193,16 @@
   ### OpenSource Bots
   
   #### OpenSource Auto Filter Bots
-  - __[Adv Auto Filter Bot](https://github.com/CrazyBotsz/Adv-Auto-Filter-Bot)__ : _A Advanced Auto Filter Bot Which Can Be Used In Many Groups With Multiple Channel Support.._
-  - __[Adv Auto Filter Bot V2](https://github.com/CrazyBotsz/Adv-Auto-Filter-Bot-V2)__ : _An advance automatic filter bot for filtering files and media in a telegram chat._
-  - __[Auto Filter Bot V2](https://github.com/TroJanzHEX/Auto-Filter-Bot-V2)__
+  - __[Adv Auto Filter Bot](https://github.com/CrazyBotsz/Adv-Auto-Filter-Bot)__ By [CrazyBotsz](https://github.com/CrazyBotsz/)  : _A Advanced Auto Filter Bot Which Can Be Used In Many Groups With Multiple Channel Support.._
+  - __[Adv Auto Filter Bot V2](https://github.com/CrazyBotsz/Adv-Auto-Filter-Bot-V2)__ By [CrazyBotsz](https://github.com/CrazyBotsz/)  : _An advance automatic filter bot for filtering files and media in a telegram chat._
+  - __[Auto Filter Bot V2](https://github.com/TroJanzHEX/Auto-Filter-Bot-V2)__ By [TroJanzHEX](https://github.com/TroJanzHEX)  
   
-  - __[IMDb Auto Filter Bot](https://github.com/kalanakt/IMDb-Auto-Filter-Bot)__ : _Auto-filter Bot With IMDb Poster._
-  - __[Eva Maria Editors' Choice](https://github.com/kalanakt/EvaMaria_Editors_Choice)__ : _Editors' Choice of Eva Maria Telegram Bot_
+  - __[IMDb Auto Filter Bot](https://github.com/kalanakt/IMDb-Auto-Filter-Bot)__ By [kalanakt](https://github.com/kalanakt)  : _Auto-filter Bot With IMDb Poster._
+  - __[Eva Maria Editors' Choice](https://github.com/kalanakt/EvaMaria_Editors_Choice)__ By [kalanakt](https://github.com/kalanakt)  : _Editors' Choice of Eva Maria Telegram Bot_
   
   #### OpenSource Filter Bots
-  - __[Unlimited Filter Bot](https://github.com/TroJanzHEX/Unlimited-Filter-Bot)__ : _An advanced Filter Bot with nearly unlimited filters!_
-  - __[Filter Bot](https://github.com/Jijinr/Filter-Bot)__
+  - __[Unlimited Filter Bot](https://github.com/TroJanzHEX/Unlimited-Filter-Bot)__ By [TroJanzHEX](https://github.com/TroJanzHEX): _An advanced Filter Bot with nearly unlimited filters!_
+  - __[Filter Bot](https://github.com/Jijinr/Filter-Bot)__ By [Jijinr](https://github.com/Jijinr)
   
   #### OpenSource Group Manager Bots
   - __[Amelia Group Bot](https://github.com/xAbhish3k/AmeliaRobot)__ : _An Anime Theme Telegram group management bot. With lot of features._
@@ -229,13 +229,13 @@
   - __[FileStore Bot](https://github.com/avipatilpro/FileStoreBot)__ : _Telegram Files Store Bot with Permeant Sharable Links by [@avipatilpro](https://github.com/avipatilpro)._
 
   #### OpenSource Music Bots
-  - __[Remix](https://github.com/callsmusic/remix)__ : _Powerful Telegram music bot._
-  - __[MusicPlayer](https://github.com/subinps/MusicPlayer)__ : _Telegram Bot to play music in VoiceChat with Channel Support and autostarts Radio._
-  - __[YukkiMusic Bot](https://github.com/TeamYukki/YukkiMusicBot)__ : _Telegram Group Calls Streaming bot with some useful features, written in Python with Pyrogram and Py-Tgcalls. Supporting platforms like Youtube, Spotify, Resso, AppleMusic, Soundcloud and M3u8 Links._
+  - __[Remix](https://github.com/callsmusic/remix)__ By [callsmusic](https://github.com/callsmusic) : _Powerful Telegram music bot._
+  - __[MusicPlayer](https://github.com/subinps/MusicPlayer)__ By [subinps](https://github.com/subinps) : _Telegram Bot to play music in VoiceChat with Channel Support and autostarts Radio._
+  - __[YukkiMusic Bot](https://github.com/TeamYukki/YukkiMusicBot)__ By [TeamYukki](https://github.com/TeamYukki) : _Telegram Group Calls Streaming bot with some useful features, written in Python with Pyrogram and Py-Tgcalls. Supporting platforms like Youtube, Spotify, Resso, AppleMusic, Soundcloud and M3u8 Links._
 
   #### OpenSource Other Bots
-  - __[freqtrade](https://github.com/freqtrade/freqtrade)__ : _Free, open source crypto trading bot_
-  - __[rss bot](https://github.com/iovxw/rssbot)__ : _Lightweight Telegram RSS notification bot._
+  - __[freqtrade](https://github.com/freqtrade/freqtrade)__  By [freqtrade](https://github.com/freqtrade) : _Free, open source crypto trading bot_
+  - __[rss bot](https://github.com/iovxw/rssbot)__  By [iovxw](https://github.com/iovxw) : _Lightweight Telegram RSS notification bot._
 
 
   ## Telegram Libraries
