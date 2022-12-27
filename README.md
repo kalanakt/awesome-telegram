@@ -255,6 +255,7 @@
   
   - __[AIOGram](https://github.com/aiogram/aiogram)__ : _A pretty simple and fully asynchronous library for Telegram Bot API written with asyncio and aiohttp.._ 
   - __[Pyrogram](https://github.com/pyrogram/pyrogram)__ : _Elegant, modern and asynchronous Telegram MTProto API framework in Python for users and bots._
+  - __[EzTg](https://github.com/hexyedev/eztg)__ : _A simple and asynchronous telegram api wrapper based on the official Telegram Bot API._ 
   
 
   ### Rust
