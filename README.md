@@ -204,7 +204,7 @@
   #### OpenSource Filter Bots
   - __[Unlimited Filter Bot](https://github.com/TroJanzHEX/Unlimited-Filter-Bot)__ By [TroJanzHEX](https://github.com/TroJanzHEX): _An advanced Filter Bot with nearly unlimited filters!_
   - __[Filter Bot](https://github.com/Jijinr/Filter-Bot)__ By [Jijinr](https://github.com/Jijinr)
-    
+  
   #### OpenSource Group Manager Bots
   - __[Amelia Group Bot](https://github.com/xAbhish3k/AmeliaRobot)__ : _An Anime Theme Telegram group management bot. With lot of features._
   - __[Alita Robot](https://github.com/DivideProjects/Alita_Robot)__ : _Alita is a Telegram Group management bot made using Pyrogram and Python, which makes it modern and faster than most of the Telegram chat managers._
