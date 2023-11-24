@@ -186,9 +186,13 @@
   - __[Telegram React](https://github.com/evgeny-nadymov/telegram-react)__ : _JavaScript client for browsers. Mac, Windows, Linux._
   - __[Telegram Desktop](https://github.com/telegramdesktop/tdesktop)__ : _Qt-based desktop client. Mac, Windows, Linux._
   - __[Telegram for WP](https://github.com/evgeny-nadymov/telegram-wp)__ : _Telegram Messenger for Windows Phone_
+  - __[Telegram X](https://github.com/TGX-Android/Telegram-X)__ : _Official alternative Telegram client for Android._
   - __[Telegram CLI](https://github.com/vysheng/tg)__ : _Linux Command-line interface for Telegram._
+  - __[Telegram-FOSS](https://github.com/Telegram-FOSS-Team/Telegram-FOSS)__ : _FOSS-friendly fork of the original Telegram client for Android._
+  - __[NekoX](https://github.com/NekoX-Dev/NekoX)__ : _Third-party Telegram client, based on Telegram-FOSS with features added._
   - __[Unigram ](https://github.com/UnigramDev/Unigram)__ : _A Telegram client optimized for Windows 10 (desktop and Xbox One)._
   - __[MadelineProto ](https://github.com/danog/MadelineProto)__ : _A PHP MTProto Telegram client._
+  - __[Plus Messenger](https://github.com/rafalense/Plus-Messenger)__ : _Unofficial Android client that uses Telegram's API._
 
 
   ### OpenSource Bots
