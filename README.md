@@ -56,6 +56,7 @@
         - [OpenSource Chat Bots](#opensource-chat-bots)
         - [OpenSource Group Manager Bots](#opensource-group-manager-bots)
         - [OpenSource User Bots](#opensource-user-bots)
+        - [OpenSource Anonymous Group Chat Bots](#opensource-anonymous-group-chat-bots)
         - [OpenSource Download Bots](#opensource-download-bots)
         - [OpenSource Youtube Bots](#opensource-youtube-bots)
         - [OpenSource File Store](#opensource-file-store-bots)
@@ -217,6 +218,10 @@
   - __[Ridogram](https://github.com/iniridwanul/Ridogram)__ : _https://github.com/iniridwanul/Ridogram_
   - __[Userge](https://github.com/UsergeTeam/Userge)__ : _Pluggable Telegram UserBot_
   - __[Ultroid](https://github.com/TeamUltroid/Ultroid)__ : _Advanced Multi-Featured Telegram UserBot, Built in Python Using Telethon lib._
+
+  #### OpenSource Anonymous Group Chat Bots
+  - __[Private Parlor XT](https://github.com/Private-Parlor/Private-Parlor-XT)__ : _A featureful Telegram bot for making anonymous group chats_
+  - __[secretlounge-ng](https://github.com/secretlounge/secretlounge-ng)__ : _A bot to make an anonymous group chat on Telegram_
 
   #### OpenSource Download Bots
   - __[Youtube Dl bot](https://github.com/aryanvikash/Youtube-Downloader-Bot)__
