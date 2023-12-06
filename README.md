@@ -50,6 +50,8 @@
      
     - [OpenSource](#opensource)
       - [OpenSource Apps](#opensource-apps)
+        - [Official Apps](#official-apps)
+        - [Unofficial Apps](#unofficial-apps)
       - [OpenSource Bots](#opensource-bots)
         - [OpenSource Auto Filter Bots](#opensource-auto-filter-bots)
         - [OpenSource Filter Bots](#opensource-filter-bots)
@@ -176,6 +178,8 @@
   ## OpenSource
   
   ### OpenSource Apps
+  
+  #### Official Apps
   - __[Telegram Database Library](https://github.com/tdlib/td)__ : _Cross-platform library for building custom Telegram apps, see [TDLib](https://core.telegram.org/tdlib) for details._
   - __[Telegram for Android](https://github.com/DrKLO/Telegram)__ : _Official Android App, see [Google Play Market page](https://telegram.org/dl/android) for full description._
   - __[Telegram for iOS](https://github.com/TelegramMessenger/Telegram-iOS)__ 
@@ -186,8 +190,20 @@
   - __[Telegram React](https://github.com/evgeny-nadymov/telegram-react)__ : _JavaScript client for browsers. Mac, Windows, Linux._
   - __[Telegram Desktop](https://github.com/telegramdesktop/tdesktop)__ : _Qt-based desktop client. Mac, Windows, Linux._
   - __[Telegram for WP](https://github.com/evgeny-nadymov/telegram-wp)__ : _Telegram Messenger for Windows Phone_
+  - __[Telegram X for Android](https://github.com/TGX-Android/Telegram-X)__ : _Official alternative Telegram client for Android._
+
+  #### Unofficial Apps
   - __[Telegram CLI](https://github.com/vysheng/tg)__ : _Linux Command-line interface for Telegram._
+  - __[Telegram FOSS](https://github.com/Telegram-FOSS-Team/Telegram-FOSS)__ : _FOSS-friendly fork of the original Telegram client for Android._
+  - __[Forkgram Android](https://github.com/forkgram/TelegramAndroid)__ : _Fork client of Telegram app for Android._
+  - __[Forkgram Desktop](https://github.com/forkgram/tdesktop)__ : _Fork of Telegram Desktop messaging app._
+  - __[Nekogram](https://github.com/Nekogram/Nekogram)__ : _Open-source third-party Telegram client with few but useful mods._
+  - __[NekoX](https://github.com/NekoX-Dev/NekoX)__ : _Third-party Telegram client, based on Telegram-FOSS with features added._
+  - __[Nicegram Android](https://github.com/nicegram/Nicegram-Android)__ : _Telegram API-based messenger that offers enhanced opportunities for business and personal communication alike._
+  - __[Nicegram iOS](https://github.com/nicegram/Nicegram-iOS)__ : _Telegram API-based messenger that offers enhanced opportunities for business and personal communication alike._  
+  - __[Plus Messenger](https://github.com/rafalense/Plus-Messenger)__ : _Unofficial Android client that uses Telegram's API._
   - __[Unigram ](https://github.com/UnigramDev/Unigram)__ : _A Telegram client optimized for Windows 10 (desktop and Xbox One)._
+  - __[Kotatogram Desktop](https://github.com/kotatogram/kotatogram-desktop)__ : _Experimental Telegram Desktop fork._  
   - __[MadelineProto ](https://github.com/danog/MadelineProto)__ : _A PHP MTProto Telegram client._
 
 
