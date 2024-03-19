@@ -143,7 +143,7 @@
   
   - __[Group Help](https://t.me/GroupHelpBot)__ : _This is the most complete Bot to help you manage your groups easily and safely!._
   - __[Rose](https://t.me/MissRose_bot)__ : _Powerful telegram bot to help you manage your groups._
-  
+   __[InviteMemberBot ](https://t.me/InviteMemberBot )__ : _membership bot platform for paid Telegram channels and groups_
   ### Url Upload Bots
   
   - __[Video Download Bot](https://t.me/VideoDownloadBot)__ : _This Bot allows you to download videos from Facebook, Twitter, instagram, vk and other 700 sources._
@@ -173,7 +173,7 @@
   
   - __[Wikipedia Search](https://t.me/wiki)__ : _Search for wiki article in any chats or groups, no need to add it anywhere. Simply type @wiki in any chat, then type your query (without hitting 'send'). Bot will open a panel with Wikipedia article suggestions. Tap on an item to send it to your chat partner right away._
   - __[Livegram Bot](https://t.me/LivegramBot)__ : _Livegram Bot is a builder of feedback bots for Telegram. This can be used to broadcast messages, get feedback messages in groups, get bot statistics and more._
-  
+ - __[SUCH](https://t.me/such)__ : _feedback and support bot builder for channel admins, bot developers, business owners, and community managers._
   
   ## OpenSource
   
