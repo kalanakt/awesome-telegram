@@ -141,9 +141,11 @@
   
   ### Group Manager Bots
   
+  - __[AirNope](https://t.me/airnope_bot)__ : _keeps Telegram groups clean from cryptocurrency ”airdrop” spam (and is [open-source](https://github.com/cuducos/airnope))_
   - __[Group Help](https://t.me/GroupHelpBot)__ : _This is the most complete Bot to help you manage your groups easily and safely!._
   - __[Rose](https://t.me/MissRose_bot)__ : _Powerful telegram bot to help you manage your groups._
   - __[InviteMemberBot ](https://t.me/InviteMemberBot )__ : _membership bot platform for paid Telegram channels and groups_
+
   ### Url Upload Bots
   
   - __[Video Download Bot](https://t.me/VideoDownloadBot)__ : _This Bot allows you to download videos from Facebook, Twitter, instagram, vk and other 700 sources._
