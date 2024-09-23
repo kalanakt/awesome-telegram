@@ -259,6 +259,7 @@
   - __[YukkiMusic Bot](https://github.com/TeamYukki/YukkiMusicBot)__ By [TeamYukki](https://github.com/TeamYukki) : _Telegram Group Calls Streaming bot with some useful features, written in Python with Pyrogram and Py-Tgcalls. Supporting platforms like Youtube, Spotify, Resso, AppleMusic, Soundcloud and M3u8 Links._
 
   #### OpenSource Other Bots
+  - __[English Wikipedia Link Converter](https://github.com/jnton/english-wikipedia-link-converter-telegram-bot)__  By [JnTon](https://github.com/jnton) : _Telegram bot that converts any non-English Wikipedia link into its English equivalent_
   - __[freqtrade](https://github.com/freqtrade/freqtrade)__  By [freqtrade](https://github.com/freqtrade) : _Free, open source crypto trading bot_
   - __[rss bot](https://github.com/iovxw/rssbot)__  By [iovxw](https://github.com/iovxw) : _Lightweight Telegram RSS notification bot._
 
