@@ -302,7 +302,7 @@
   - __[Renamer Bot](https://t.me/Renamer_4_Bot)__ : _Fast File/ Video Renamer Bot._
   
   ### Other Bots
-  
+  - __[SUCH Bot Builder](https://t.me/SUCH)__ : _AI chatbot builder designed for channel admins, bot developers, business owners, and community managers to quickly and easily create free feedback and support bots._
   - __[Wikipedia Search](https://t.me/wiki)__ : _Search for wiki article in any chats or groups, no need to add it anywhere. Simply type @wiki in any chat, then type your query (without hitting 'send'). Bot will open a panel with Wikipedia article suggestions. Tap on an item to send it to your chat partner right away._
   - __[Livegram Bot](https://t.me/LivegramBot)__ : _Livegram Bot is a builder of feedback bots for Telegram. This can be used to broadcast messages, get feedback messages in groups, get bot statistics and more._
   
