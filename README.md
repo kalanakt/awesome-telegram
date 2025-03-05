@@ -155,6 +155,7 @@
   
   - __[Youtube Search](https://t.me/vid)__ : _Search and share YouTube links to anyone without leaving Telegram. Simply type @vid in any chat, then type your query (without hitting 'send'). This will open a panel with video suggestions. Tap on any search result to send it to your partner._
   - __[Youtube Audio Bot](https://t.me/YTAudioBot)__ : _Get YouTube videos in Audio format. This bot supports more than 20+ languages._
+  - __[Videos Craft Bot](https://t.me/VideosCraftBot)__ : _Transform any prompt into a stunning Youtube video._
   
   ### Books And Pdf Bots
   
