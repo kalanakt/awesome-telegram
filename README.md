@@ -64,6 +64,15 @@
         - [OpenSource File Store](#opensource-file-store-bots)
         - [OpenSource Music Bots](#opensource-music-bots)
         - [OpenSource Other Bots](#opensource-other-bots)
+
+	- [Telegram Bot Templates](#telegram-bot-templates)
+      - [Python](#python-bot-templates)
+      - [JavaScript](#javascript-bot-templates)
+      - [TypeScript](#typescript-bot-templates)
+      - [Go](#go-bot-templates)
+      - [PHP](#php-bot-templates)
+      - [Java](#java-bot-templates)
+      - [Rust](#rust-bot-templates)
    
     - [Telegram Libraries](#telegram-libraries)
       - [Java](#java)
@@ -263,6 +272,86 @@
   - __[English Wikipedia Link Converter](https://github.com/jnton/english-wikipedia-link-converter-telegram-bot)__  By [JnTon](https://github.com/jnton) : _Telegram bot that converts any non-English Wikipedia link into its English equivalent_
   - __[freqtrade](https://github.com/freqtrade/freqtrade)__  By [freqtrade](https://github.com/freqtrade) : _Free, open source crypto trading bot_
   - __[rss bot](https://github.com/iovxw/rssbot)__  By [iovxw](https://github.com/iovxw) : _Lightweight Telegram RSS notification bot._
+
+
+  ## Telegram Bot Templates
+
+  ### Python
+   - __[Forden/aiogram-bot-template](https://github.com/Forden/aiogram-bot-template)__ : Scalable aiogram bot template.
+   - __[AbirHasan2005/Pyrogram-Bot-Template](https://github.com/AbirHasan2005/Pyrogram-Bot-Template)__ : Pyrogram starter template.
+   - __[TelegramBots/telegram.bot](https://github.com/TelegramBots/telegram.bot)__ : Simple Python bot starter.
+   - __[delivrance/telegram-bot-heroku-template](https://github.com/delivrance/telegram-bot-heroku-template)__ : Heroku-ready Python Telegram bot template.
+	
+  ### JavaScript
+   - __[telegraf-inline-menu/template](https://github.com/telegraf-inline-menu/template)__ : Template for bots using Telegraf.js.
+   - __[yagop/node-telegram-bot-api/examples](https://github.com/yagop/node-telegram-bot-api/tree/master/examples)__ : Official node-telegram-bot-api examples.
+   - __[EdJoPaTo/telegram-bot-boilerplate](https://github.com/EdJoPaTo/telegram-bot-boilerplate)__ : Boilerplate for scalable JS Telegram bots.
+   - __[TediCross/TediCross](https://github.com/TediCross/TediCross)__ : Bridge template for Telegram/Discord in JS.
+	
+  ### TypeScript
+   - __[grammyjs/grammY-template](https://github.com/grammyjs/grammY-template)__ : TypeScript grammY bot template.
+   - __[Degreet/nestgram-template](https://github.com/Degreet/nestgram-template)__ : Nestgram starter for TS bots.
+   - __[grammyjs/typescript-template](https://github.com/grammyjs/typescript-template)__ : GrammY TypeScript template with best practices.
+	
+  ### Go
+   - __[mymmrac/telego-bot-template](https://github.com/mymmrac/telego-bot-template)__ : Telego bot template.
+   - __[go-telegram-bot-api/examples](https://github.com/go-telegram-bot-api/telegram-bot-api/tree/master/examples)__ : Official Go Telegram API examples.
+   - __[PaulSonOfLars/gotgbot-template](https://github.com/PaulSonOfLars/gotgbot-template)__ : Gotgbot starter template.
+	
+  ### PHP
+   - __[php-telegram-bot/example-bot](https://github.com/php-telegram-bot/example-bot)__ : Example bot with php-telegram-bot.
+   - __[nutgram/nutgram-template](https://github.com/nutgram/nutgram-template)__ : Nutgram bot starter.
+   - __[TelegramBot/Api](https://github.com/TelegramBot/Api)__ : PHP Telegram Bot API basic template.
+	
+  ### Java
+   - __[rubenlagus/TelegramBots ExampleBot](https://github.com/rubenlagus/TelegramBots/tree/master/TelegramBotsExample)__ : Java TelegramBots example.
+   - __[pengrad/java-telegram-bot-api/examples](https://github.com/pengrad/java-telegram-bot-api/tree/master/examples)__ : Java Telegram bot API examples.
+   - __[InsanusMokrassar/TelegramBotAPI](https://github.com/InsanusMokrassar/TelegramBotAPI/tree/master/examples)__ : Kotlin and Java bot API examples.
+	
+  ### Rust
+   - __[teloxide/teloxide-template](https://github.com/teloxide/teloxide-template)__ : Teloxide bot template.
+   - __[ayrat555/frankenstein/examples](https://github.com/ayrat555/frankenstein/tree/master/examples)__ : Frankenstein Rust bot examples.
+	
+  ### Kotlin
+   - __[vendelieu/telegram-bot-template](https://github.com/vendelieu/telegram-bot-template)__ : Kotlin Telegram bot starter.
+   - __[kotatogram/kotlin-telegram-bot-template](https://github.com/kotatogram/kotlin-telegram-bot-template)__ : Minimal Kotlin bot template.
+   - __[InsanusMokrassar/TelegramBotAPI](https://github.com/InsanusMokrassar/TelegramBotAPI/tree/master/examples)__ : Kotlin Telegram bot API examples.
+	
+  ### Node.js
+   - __[yagop/node-telegram-bot-api/examples](https://github.com/yagop/node-telegram-bot-api/tree/master/examples)__ : Node.js Telegram bot examples.
+   - __[telegraf/telegraf-template](https://github.com/telegraf/telegraf-template)__ : Telegraf.js bot starter template.
+   - __[grammyjs/grammY-template](https://github.com/grammyjs/grammY-template)__ : GrammY Node.js bot template.
+	
+  ### .NET
+   - __[TelegramBots/Telegram.Bot.Examples](https://github.com/TelegramBots/Telegram.Bot.Examples)__ : C#/.NET Telegram bot examples.
+   - __[RxTelegram/RxTelegram.Bot](https://github.com/RxTelegram/RxTelegram.Bot/tree/master/examples)__ : Reactive .NET bot examples.
+	
+  ### Swift
+   - __[rapierorg/telegram-bot-swift/Examples](https://github.com/rapierorg/telegram-bot-swift/tree/master/Examples)__ : Swift Telegram bot examples.
+   - __[nerzh/telegram-vapor-bot](https://github.com/nerzh/telegram-vapor-bot/tree/main/ExampleBot)__ : Vapor Swift bot example.
+	
+  ### Scala
+   - __[bot4s/telegram-sample-bot](https://github.com/bot4s/telegram-sample-bot)__ : Scala Telegram bot sample.
+   - __[augustjune/canoe](https://github.com/augustjune/canoe/tree/master/examples)__ : Functional Scala bot examples.
+	
+  ### Ruby
+   - __[telegram-bot-rb/telegram-bot-starter](https://github.com/telegram-bot-rb/telegram-bot-starter)__ : Ruby bot starter.
+   - __[atipugin/telegram-bot-ruby/examples](https://github.com/atipugin/telegram-bot-ruby/tree/master/examples)__ : Ruby Telegram bot API examples.
+	
+  ### C++
+   - __[reo7sp/tgbot-cpp-examples](https://github.com/reo7sp/tgbot-cpp/tree/master/examples)__ : C++ Telegram bot examples.
+   - __[egorpugin/tgbot/examples](https://github.com/egorpugin/tgbot/tree/master/examples)__ : Another C++ Telegram bot template.
+	
+  ### Elixir
+   - __[zhyu/nadia-example](https://github.com/zhyu/nadia-example)__ : Elixir Nadia bot example.
+   - __[rockneurotiko/ex_gram/examples](https://github.com/rockneurotiko/ex_gram/tree/master/examples)__ : ExGram Elixir bot examples.
+	
+  ### Dart
+   - __[DinoLeung/TeleDart/example](https://github.com/DinoLeung/TeleDart/tree/master/example)__ : TeleDart bot example.
+   - __[TelegramBots/telebot-dart](https://github.com/TelegramBots/telebot-dart/tree/master/example)__ : Dart Telebot example.
+	
+  ### Haskell
+   - __[klappvisor/haskell-telegram-api/examples](https://github.com/klappvisor/haskell-telegram-api/tree/master/examples)__ : Haskell Telegram bot examples.
 
 
   ## Telegram Libraries
