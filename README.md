@@ -86,6 +86,7 @@
       - [Node.js](#node)
       - [.NET](#net)
       - [Other Languages](#other-languages)
+      - [APIs for Bot Content](#apis-for-bot-content)
   
   
   ## About 
@@ -440,9 +441,14 @@
   
   
   ### Other Languages
-  
+
   - __[Haskell: haskell-telegram-api](https://github.com/klappvisor/haskell-telegram-api)__ : _High-level bindings to the Telegram Bot API based on servant library._
   - __[Dart: TeleDart](https://github.com/DinoLeung/TeleDart)__ : _A library interfacing with the latest Telegram Bot API._
+
+
+  ### APIs for Bot Content
+
+  - __[Vedika API](https://vedika.io)__ : _Vedic astrology API with AI chatbot for building horoscope, kundali, and panchang bots. 108+ endpoints, 22 languages, Python and JavaScript SDKs._
 
 
 <br><br>
