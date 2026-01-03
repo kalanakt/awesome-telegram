@@ -186,7 +186,8 @@
   - __[Wikipedia Search](https://t.me/wiki)__ : _Search for wiki article in any chats or groups, no need to add it anywhere. Simply type @wiki in any chat, then type your query (without hitting 'send'). Bot will open a panel with Wikipedia article suggestions. Tap on an item to send it to your chat partner right away._
   - __[Livegram Bot](https://t.me/LivegramBot)__ : _Livegram Bot is a builder of feedback bots for Telegram. This can be used to broadcast messages, get feedback messages in groups, get bot statistics and more._
  - __[SUCH](https://t.me/such)__ : _feedback and support bot builder for channel admins, bot developers, business owners, and community managers._
-  
+  - __[Vedika API](https://vedika.io)__ : _Vedic astrology API for building Telegram bots with AI chatbot, birth charts, and 108+ endpoints in 22 languages._
+
   ## OpenSource
   
   ### OpenSource Apps
