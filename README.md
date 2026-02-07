@@ -219,6 +219,7 @@
   - __[Kotatogram Desktop](https://github.com/kotatogram/kotatogram-desktop)__ : _Experimental Telegram Desktop fork._  
   - __[MadelineProto ](https://github.com/danog/MadelineProto)__ : _A PHP MTProto Telegram client._
 
+  - __[Telegram Media Downloader](https://github.com/rfsbraz/telegram-downloader)__ : _Self-hosted daemon that automatically downloads media from Telegram channels, groups, and forum topics. Supports filtering, duplicate detection, and Docker._
 
   ### OpenSource Bots
   
