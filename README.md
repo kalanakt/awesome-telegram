@@ -283,6 +283,7 @@
    - __[AbirHasan2005/Pyrogram-Bot-Template](https://github.com/AbirHasan2005/Pyrogram-Bot-Template)__ : Pyrogram starter template.
    - __[TelegramBots/telegram.bot](https://github.com/TelegramBots/telegram.bot)__ : Simple Python bot starter.
    - __[delivrance/telegram-bot-heroku-template](https://github.com/delivrance/telegram-bot-heroku-template)__ : Heroku-ready Python Telegram bot template.
+- [TeleGet](https://github.com/xwc9527/TeleGet) - High-speed Telegram file downloader SDK with multi-connection parallel downloading.
 	
   ### JavaScript Bot Templates
    - __[telegraf-inline-menu/template](https://github.com/telegraf-inline-menu/template)__ : Template for bots using Telegraf.js.
