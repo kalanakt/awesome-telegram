@@ -187,6 +187,7 @@
   - __[Livegram Bot](https://t.me/LivegramBot)__ : _Livegram Bot is a builder of feedback bots for Telegram. This can be used to broadcast messages, get feedback messages in groups, get bot statistics and more._
  - __[SUCH](https://t.me/such)__ : _feedback and support bot builder for channel admins, bot developers, business owners, and community managers._
  - __[Code Stars](https://t.me/code_stars)__ : _Code Stars highlights the most popular GitHub repos from the last hour, helping you discover innovative projects early._
+ - __[NoxBaseBot](https://t.me/NoxBaseBot)__ : _Real-time crypto prices, portfolio tracking, whale alerts, gas fees, and DeFi analytics for Base chain and major tokens. Features 27+ commands including price alerts, ATH tracking, and crypto conversion._
   
   ## OpenSource
   
