@@ -274,7 +274,8 @@
   #### OpenSource Other Bots
   - __[English Wikipedia Link Converter](https://github.com/jnton/english-wikipedia-link-converter-telegram-bot)__  By [JnTon](https://github.com/jnton) : _Telegram bot that converts any non-English Wikipedia link into its English equivalent_
   - __[freqtrade](https://github.com/freqtrade/freqtrade)__  By [freqtrade](https://github.com/freqtrade) : _Free, open source crypto trading bot_
-  - __[rss bot](https://github.com/iovxw/rssbot)__  By [iovxw](https://github.com/iovxw) : _Lightweight Telegram RSS notification bot._
+  - __[Paperless Telegram Bot](https://github.com/GeiserX/paperless-telegram-bot)__  By [GeiserX](https://github.com/GeiserX) : _Manage Paperless-NGX documents entirely through Telegram - upload, search, tag, and organize._
+- __[rss bot](https://github.com/iovxw/rssbot)__  By [iovxw](https://github.com/iovxw) : _Lightweight Telegram RSS notification bot._
 
 
   ## Telegram Bot Templates
