@@ -167,9 +167,10 @@
   - __[Videos Craft Bot](https://t.me/VideosCraftBot)__ : _Transform any prompt into a stunning Youtube video._
   
   ### Books And Pdf Bots
-  
-  - __[Book March Bot](https://t.me/bookmarchbot)__ : _BookmarchBot saves your favorite links so you can easily find & send them later._
+
+  - __[AskePub](https://github.com/GeiserX/AskePub)__ : _A self-hosted bot that generates AI study notes from ePub books using GPT-4o._
   - __[Bible Book Bot](https://t.me/BibleBookBot)__ : _Search the Bible. This bot works inline mode also._
+  - __[Book March Bot](https://t.me/bookmarchbot)__ : _BookmarchBot saves your favorite links so you can easily find & send them later._
   
   ### Sticker Bots
   
