@@ -137,6 +137,7 @@
   
   - __[A Cute Bot](https://t.me/acutebot)__ : _This bot can help you to get information about your favorite Anime, Manga, Movies, TVshows and lot of other related stuffs!._
   - __[Bae Suzy](https://t.me/SpaciousUniversBot)__ : _Bot For Movies And Tv series Filter/ Store .._
+- __[Shoof Aflam](https://t.me/shoof_aflam_bot)__ : _Search where to watch 14,000+ Arabic movies and series across 18 streaming platforms. Returns poster, rating, and direct links._
   
   ### Subtitle Bots
   
