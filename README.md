@@ -276,6 +276,7 @@
 
   #### OpenSource Other Bots
   - __[AiogramShopBot](https://github.com/ilyarolf/AiogramShopBot)__  By [Ilyarolf](https://github.com/ilyarolf) : _Open-source Telegram shop bot built with Aiogram 3, supporting digital and physical product sales, cryptocurrency payments (BTC, ETH, LTC, SOL, BNB, USDT), referral system and web admin panel._
+  - __[Broletter](https://github.com/landigf/Broletter)__  By [landigf](https://github.com/landigf) : _Personalized daily science briefing bot — reads arXiv every night, explains papers via Gemini, and delivers a tap-to-expand preview card so users only read what interests them. Supports Telegram Stars subscriptions._
   - __[English Wikipedia Link Converter](https://github.com/jnton/english-wikipedia-link-converter-telegram-bot)__  By [JnTon](https://github.com/jnton) : _Telegram bot that converts any non-English Wikipedia link into its English equivalent_
   - __[freqtrade](https://github.com/freqtrade/freqtrade)__  By [freqtrade](https://github.com/freqtrade) : _Free, open source crypto trading bot_
   - __[rss bot](https://github.com/iovxw/rssbot)__  By [iovxw](https://github.com/iovxw) : _Lightweight Telegram RSS notification bot._
