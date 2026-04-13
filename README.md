@@ -276,6 +276,7 @@
 
   #### OpenSource Other Bots
   - __[AiogramShopBot](https://github.com/ilyarolf/AiogramShopBot)__  By [Ilyarolf](https://github.com/ilyarolf) : _Open-source Telegram shop bot built with Aiogram 3, supporting digital and physical product sales, cryptocurrency payments (BTC, ETH, LTC, SOL, BNB, USDT), referral system and web admin panel._
+  - __[CC Telegram Bridge](https://github.com/cloveric/cc-telegram-bridge)__  By [cloveric](https://github.com/cloveric) : _Run real Claude Code & Codex CLI natively on Telegram — multi-bot, sessions, memory, Agent Bus, voice input, budget caps._
   - __[English Wikipedia Link Converter](https://github.com/jnton/english-wikipedia-link-converter-telegram-bot)__  By [JnTon](https://github.com/jnton) : _Telegram bot that converts any non-English Wikipedia link into its English equivalent_
   - __[freqtrade](https://github.com/freqtrade/freqtrade)__  By [freqtrade](https://github.com/freqtrade) : _Free, open source crypto trading bot_
   - __[rss bot](https://github.com/iovxw/rssbot)__  By [iovxw](https://github.com/iovxw) : _Lightweight Telegram RSS notification bot._
