@@ -279,6 +279,7 @@
   - __[English Wikipedia Link Converter](https://github.com/jnton/english-wikipedia-link-converter-telegram-bot)__  By [JnTon](https://github.com/jnton) : _Telegram bot that converts any non-English Wikipedia link into its English equivalent_
   - __[freqtrade](https://github.com/freqtrade/freqtrade)__  By [freqtrade](https://github.com/freqtrade) : _Free, open source crypto trading bot_
   - __[rss bot](https://github.com/iovxw/rssbot)__  By [iovxw](https://github.com/iovxw) : _Lightweight Telegram RSS notification bot._
+  - __[ShopSavvy](https://github.com/shopsavvy/telegram-shopsavvy-bot)__  By [ShopSavvy](https://github.com/shopsavvy) : _Open-source Telegram bot for product search, price comparison across retailers, and trending deal discovery._
 
 
   ## Telegram Bot Templates
