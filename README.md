@@ -190,6 +190,7 @@
  - __[SUCH](https://t.me/such)__ : _feedback and support bot builder for channel admins, bot developers, business owners, and community managers._
  - __[Code Stars](https://t.me/code_stars)__ : _Code Stars highlights the most popular GitHub repos from the last hour, helping you discover innovative projects early._
  - __[Assignment Writer](https://t.me/MasterAssignmentBot)__ : _Assignment writer bot can write your assignments on different papers with handwritten fonts and colours within seconds._
+  - __[Cyber Collector](https://t.me/cybercollectorbot)__ : _Download videos from TikTok (no watermark), Instagram Reels/Stories, YouTube Shorts, X/Twitter and Facebook. No signup required._
   
   ## OpenSource
   
