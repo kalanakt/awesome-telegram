@@ -193,6 +193,7 @@
   - __[Cyber Collector](https://t.me/cybercollectorbot)__ : _Download videos from TikTok (no watermark), Instagram Reels/Stories, YouTube Shorts, X/Twitter and Facebook. No signup required._
   
  - __[DeepAlpha Bot](https://t.me/DeepAlphaVault_bot)__ : _AI crypto trading bot. Manage AI, Grid, and DCA bots across 12 exchanges from Telegram. Check positions, PnL, balance. Free 7-day trial. [Website](https://deepalphabot.com)_
+ - __[Murka Dream Bot](https://t.me/MurkaDreamBot)__ : _AI-powered dream interpretation bot. Send a dream and get a personalized analysis. Works in DMs and groups. [Website](https://www.murkaverse.com)_
 
   ## OpenSource
   
