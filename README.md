@@ -184,16 +184,14 @@
   - __[Renamer Bot](https://t.me/Renamer_4_Bot)__ : _Fast File/ Video Renamer Bot._
   
   ### Other Bots
-  
  - __[Wikipedia Search](https://t.me/wiki)__ : _Search for wiki article in any chats or groups, no need to add it anywhere. Simply type @wiki in any chat, then type your query (without hitting 'send'). Bot will open a panel with Wikipedia article suggestions. Tap on an item to send it to your chat partner right away._
  - __[Livegram Bot](https://t.me/LivegramBot)__ : _Livegram Bot is a builder of feedback bots for Telegram. This can be used to broadcast messages, get feedback messages in groups, get bot statistics and more._
- - __[SUCH](https://t.me/such)__ : _feedback and support bot builder for channel admins, bot developers, business owners, and community managers._
  - __[Code Stars](https://t.me/code_stars)__ : _Code Stars highlights the most popular GitHub repos from the last hour, helping you discover innovative projects early._
  - __[Assignment Writer](https://t.me/MasterAssignmentBot)__ : _Assignment writer bot can write your assignments on different papers with handwritten fonts and colours within seconds._
-  - __[Cyber Collector](https://t.me/cybercollectorbot)__ : _Download videos from TikTok (no watermark), Instagram Reels/Stories, YouTube Shorts, X/Twitter and Facebook. No signup required._
-  
+ - __[Cyber Collector](https://t.me/cybercollectorbot)__ : _Download videos from TikTok (no watermark), Instagram Reels/Stories, YouTube Shorts, X/Twitter and Facebook. No signup required._
  - __[DeepAlpha Bot](https://t.me/DeepAlphaVault_bot)__ : _AI crypto trading bot. Manage AI, Grid, and DCA bots across 12 exchanges from Telegram. Check positions, PnL, balance. Free 7-day trial. [Website](https://deepalphabot.com)_
  - __[Murka Dream Bot](https://t.me/MurkaDreamBot)__ : _AI-powered dream interpretation bot. Send a dream and get a personalized analysis. Works in DMs and groups. [Website](https://www.murkaverse.com)_
+ - __[SUCH Bot Builder](https://t.me/SUCH)__ : _AI chatbot builder designed for channel admins, bot developers, business owners, and community managers to quickly and easily create free feedback and support bots._
 
   ## OpenSource
   
@@ -281,6 +279,7 @@
   #### OpenSource Other Bots
   - __[AiogramShopBot](https://github.com/ilyarolf/AiogramShopBot)__  By [Ilyarolf](https://github.com/ilyarolf) : _Open-source Telegram shop bot built with Aiogram 3, supporting digital and physical product sales, cryptocurrency payments (BTC, ETH, LTC, SOL, BNB, USDT), referral system and web admin panel._
   - __[CC Telegram Bridge](https://github.com/cloveric/cc-telegram-bridge)__  By [cloveric](https://github.com/cloveric) : _Run real Claude Code & Codex CLI natively on Telegram — multi-bot, sessions, memory, Agent Bus, voice input, budget caps._
+  - __[Broletter](https://github.com/landigf/Broletter)__  By [landigf](https://github.com/landigf) : _Personalized daily science briefing bot — reads arXiv every night, explains papers via Gemini, and delivers a tap-to-expand preview card so users only read what interests them. Supports Telegram Stars subscriptions._
   - __[English Wikipedia Link Converter](https://github.com/jnton/english-wikipedia-link-converter-telegram-bot)__  By [JnTon](https://github.com/jnton) : _Telegram bot that converts any non-English Wikipedia link into its English equivalent_
   - __[freqtrade](https://github.com/freqtrade/freqtrade)__  By [freqtrade](https://github.com/freqtrade) : _Free, open source crypto trading bot_
   - __[rss bot](https://github.com/iovxw/rssbot)__  By [iovxw](https://github.com/iovxw) : _Lightweight Telegram RSS notification bot._
