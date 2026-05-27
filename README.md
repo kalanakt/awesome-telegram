@@ -155,6 +155,7 @@
   - __[Rose](https://t.me/MissRose_bot)__ : _Powerful telegram bot to help you manage your groups._
   - __[InviteMemberBot ](https://t.me/InviteMemberBot )__ : _membership bot platform for paid Telegram channels and groups_
   - __[OmniGest](https://t.me/OmniGest_bot)__ : _Free all-in-one group management bot with anti-spam, captcha, AI moderation, custom commands, welcome messages, and a web dashboard._
+  - __[Korra](https://t.me/KorraAI_bot)__ : _AI markets analyst that lives in your Telegram group as a member, not a tool. Multi-domain (macro, on-chain, news, sentiment) with per-group personality dials. Built by an ex-eToro Senior Market Analyst. Free during early access. [korra.finance/groups](https://korra.finance/groups)._
 
   ### Url Upload Bots
   
