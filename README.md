@@ -286,7 +286,9 @@
 
 
   ## Telegram Bot Templates
-
+Adds Telegram Grupos (telegram-grupos.com), a Brazilian directory of verified
+Telegram groups, channels and bots organized by category and city, available in
+PT/EN/ES. Fits the "Telegram Directory" section alongside the existing entries.
   ### Python Bot Templates
    - __[Forden/aiogram-bot-template](https://github.com/Forden/aiogram-bot-template)__ : Scalable aiogram bot template.
    - __[AbirHasan2005/Pyrogram-Bot-Template](https://github.com/AbirHasan2005/Pyrogram-Bot-Template)__ : Pyrogram starter template.
