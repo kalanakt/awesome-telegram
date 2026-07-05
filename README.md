@@ -293,6 +293,7 @@
    - __[AbirHasan2005/Pyrogram-Bot-Template](https://github.com/AbirHasan2005/Pyrogram-Bot-Template)__ : Pyrogram starter template.
    - __[TelegramBots/telegram.bot](https://github.com/TelegramBots/telegram.bot)__ : Simple Python bot starter.
    - __[delivrance/telegram-bot-heroku-template](https://github.com/delivrance/telegram-bot-heroku-template)__ : Heroku-ready Python Telegram bot template.
+   - __[AMEOBIUS/darkbot-ai-templates](https://github.com/AMEOBIUS/darkbot-ai-templates)__ : 17 production-ready templates (TG Bot, Web Scraper, AI Agent, CDP, Solidity, FastAPI, Discord, WhatsApp, N8N, Captcha Solver, Crypto Trading Bot, Tor Hidden Service). Crypto payments.
 - [TeleGet](https://github.com/xwc9527/TeleGet) - High-speed Telegram file downloader SDK with multi-connection parallel downloading.
 	
   ### JavaScript Bot Templates
