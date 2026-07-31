@@ -264,8 +264,6 @@
 
   #### OpenSource Download Bots
   - __[Youtube Dl bot](https://github.com/aryanvikash/Youtube-Downloader-Bot)__
-  - __[VideoDownloaderBot](https://github.com/Avazbek22/VideoDownloaderBot)__ : _Self-hosted Telegram media downloader with video, original-file, and MP3 delivery, Docker deployment, nightly yt-dlp maintenance, validation, and rollback._
-  - __[LinkDownloaderBotForGroups](https://github.com/Avazbek22/LinkDownloaderBotForGroups)__ : _Telegram group automation that turns supported links into native video posts with quiet reactions, media reuse, and rollback-safe updates._
   - __[X URL Uploader](https://github.com/X-Gorn/X-URL-Uploader)__ : _Telegram bot to upload HTTP/HTTPS direct link & youtube-dl, clone of TG-URL-Uploader_
   - __[All Url Uploader](https://github.com/kalanakt/All-Url-Uploader)__ : _A simple telegram Bot, Upload Media File| video To telegram using the direct download link. (youtube, Mediafire, google drive, mega drive, etc)._
   - __[Telegram Nexus Bot](https://github.com/nexus-stc/stc)__ : _Allows users to access STC (library, search engine and AI tooling offering free access to academic knowledge and works of fictional literature) via Telegram_
