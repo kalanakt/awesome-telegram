@@ -464,6 +464,7 @@
 
 
 <br><br>
+ - __[CryptoHelper](@Crypto_scanningbit_bot)__ : _Free crypto prices, Fear & Greed index, profit calculator, P2P info. 20 USDT bonus on MEXC registration. [Open Source](https://github.com/masik6565-droid/crypto-helper) [Website](https://crypt0-crypto-helper.vercel.app/)_
 
 ## Contributors
 
