@@ -492,3 +492,6 @@ _Made with [contrib.rocks](https://contrib.rocks)._
 	<sub><em>Copyright (c) 2022-present <strong><a href="https://github.com/kalanakt">Hash Minner</a></strong></em></sub>
 </p>
 <br>
+
+
+- [n8n-json-feed-to-telegram](https://github.com/DeusAcc/n8n-json-feed-to-telegram) - Free n8n workflow that polls a JSON endpoint and alerts on Telegram only for new entries passing a filter, no external database.
