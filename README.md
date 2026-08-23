@@ -292,6 +292,7 @@
   - __[freqtrade](https://github.com/freqtrade/freqtrade)__  By [freqtrade](https://github.com/freqtrade) : _Free, open source crypto trading bot_
   - __[rss bot](https://github.com/iovxw/rssbot)__  By [iovxw](https://github.com/iovxw) : _Lightweight Telegram RSS notification bot._
   - __[Weight Goal Bot](https://t.me/my_weight_goal_bot)__  By [IgorShadurin](https://github.com/IgorShadurin) : _Apache-2.0 open-source group bot for photo-backed weekly weight goals, charts, reminders, and 53 achievements in nine languages. [Source](https://github.com/IgorShadurin/weight-telegram-bot)._
+  - __[ZakupVarta](https://t.me/ProzzoroUkraineBot)__ By [vovasik07](https://github.com/vovasik07) : _MIT-licensed bot that monitors Prozorro tenders by keywords, region, and budget and alerts users to material changes. [Source](https://github.com/vovasik07/zakupvarta)._
 
 
   ## Telegram Bot Templates
