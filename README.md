@@ -201,6 +201,7 @@
  - __[Joba Search](https://t.me/joba_search_bot)__ : _Aggregates game-industry job postings from Russian-language Telegram channels, with AI filtering._
  - __[TikTapSaveBot](https://t.me/TikTapSaveBot)__ : _Downloads TikTok, Instagram and X/Twitter videos without the watermark in HD, right inside Telegram. 3 free downloads, then unlock via Telegram Stars. Works inline._
  - __[I Nudge](https://t.me/mynudgebot?start=src_awesome)__ : _Proactive reminders and a morning briefing for tasks you capture by text or voice note, in your own language. One tap to close. [Website](https://inudge.io)._
+ - __[lora.pro](https://t.me/mono_me_bot)__ : _AI photo studio: send a photo, pick a ready style preset, get a portrait back that keeps your face. Also photo-to-video, sticker packs and photo restoration. [Website](https://lora.pro)_
 
   ## OpenSource
   
