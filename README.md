@@ -203,6 +203,11 @@
  - __[I Nudge](https://t.me/mynudgebot?start=src_awesome)__ : _Proactive reminders and a morning briefing for tasks you capture by text or voice note, in your own language. One tap to close. [Website](https://inudge.io)._
  - __[QuickRadar](https://t.me/QuickRadarBot)__ : _Modular crypto alerts & arbitrage monitoring — visual no-code rule builder for price, funding, open interest and executable spread across 14 exchanges (CEX + DEX), delivered in Telegram. [Website](https://quickradar.win)_
  - __[lora.pro](https://t.me/mono_me_bot)__ : _AI photo studio: send a photo, pick a ready style preset, get a portrait back that keeps your face. Also photo-to-video, sticker packs and photo restoration. [Website](https://lora.pro)_
+ - __[WhisperLockBot](https://t.me/WhisperLockBot)__ : _Sends a locked message only the intended recipient can open, inline. Free tier, one-time 150 Stars Pro upgrade, Mini App included._
+ - __[NudgeRemindBot](https://t.me/NudgeRemindBot)__ : _Sets reminders using six time input formats. Free tier, one-time 150 Stars Pro upgrade, Mini App included._
+ - __[AnonInboxProBot](https://t.me/AnonInboxProBot)__ : _Anonymous inbox that collects messages sent through a personal link. Free tier, one-time 150 Stars Pro upgrade, Mini App included._
+ - __[SplitTabsBot](https://t.me/SplitTabsBot)__ : _Splits group bills and tracks who owes what. Free tier, one-time 150 Stars Pro upgrade, Mini App included._
+ - __[HabitStreakProBot](https://t.me/HabitStreakProBot)__ : _Tracks daily habit check-ins and streaks. Free tier, one-time 150 Stars Pro upgrade, Mini App included._
 
   ## OpenSource
   
