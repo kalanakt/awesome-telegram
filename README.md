@@ -203,6 +203,7 @@
  - __[I Nudge](https://t.me/mynudgebot?start=src_awesome)__ : _Proactive reminders and a morning briefing for tasks you capture by text or voice note, in your own language. One tap to close. [Website](https://inudge.io)._
  - __[QuickRadar](https://t.me/QuickRadarBot)__ : _Modular crypto alerts & arbitrage monitoring — visual no-code rule builder for price, funding, open interest and executable spread across 14 exchanges (CEX + DEX), delivered in Telegram. [Website](https://quickradar.win)_
  - __[lora.pro](https://t.me/mono_me_bot)__ : _AI photo studio: send a photo, pick a ready style preset, get a portrait back that keeps your face. Also photo-to-video, sticker packs and photo restoration. [Website](https://lora.pro)_
+ - __[DeloPulse](https://t.me/delo_pulse_bot)__ : _Task control for Telegram work groups: one task can be assigned to several people, and each assignee gets a separate status, private reminders and their own report, while the group sees who is done and who is late. Free, with a Mini App for the calendar and stats. [Website](https://delopulse.com)_
 
   ## OpenSource
   
