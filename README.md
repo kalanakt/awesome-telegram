@@ -199,6 +199,7 @@
  - __[Crawlbench Alerts](https://t.me/CrawlbenchAlertsBot)__ : _Telegram bot that sends Facebook Marketplace match alerts from Crawlbench. [Website](https://crawlbench.com)_
  - __[TikTapSaveBot](https://t.me/TikTapSaveBot)__ : _Downloads TikTok, Instagram and X/Twitter videos without the watermark in HD, right inside Telegram. 3 free downloads, then unlock via Telegram Stars. Works inline._
  - __[I Nudge](https://t.me/mynudgebot?start=src_awesome)__ : _Proactive reminders and a morning briefing for tasks you capture by text or voice note, in your own language. One tap to close. [Website](https://inudge.io)._
+ - __[n8n-json-feed-to-telegram](https://github.com/DeusAcc/n8n-json-feed-to-telegram)__ - Free n8n workflow that polls a JSON endpoint and alerts on Telegram only for new entries passing a filter, no external database.
 
   ## OpenSource
   
@@ -492,6 +493,3 @@ _Made with [contrib.rocks](https://contrib.rocks)._
 	<sub><em>Copyright (c) 2022-present <strong><a href="https://github.com/kalanakt">Hash Minner</a></strong></em></sub>
 </p>
 <br>
-
-
-- [n8n-json-feed-to-telegram](https://github.com/DeusAcc/n8n-json-feed-to-telegram) - Free n8n workflow that polls a JSON endpoint and alerts on Telegram only for new entries passing a filter, no external database.
