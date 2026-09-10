@@ -205,11 +205,11 @@
   - __[QuickRadar](https://t.me/QuickRadarBot)__ : _Modular crypto alerts & arbitrage monitoring — visual no-code rule builder for price, funding, open interest and executable spread across 14 exchanges (CEX + DEX), delivered in Telegram. [Website](https://quickradar.win)_
   - __[lora.pro](https://t.me/mono_me_bot)__ : _AI photo studio: send a photo, pick a ready style preset, get a portrait back that keeps your face. Also photo-to-video, sticker packs and photo restoration. [Website](https://lora.pro)_
   - __[DeloPulse](https://t.me/delo_pulse_bot)__ : _Task control for Telegram work groups: one task can be assigned to several people, and each assignee gets a separate status, private reminders and their own report, while the group sees who is done and who is late. Free, with a Mini App for the calendar and stats. [Website](https://delopulse.com)_
-  - __[WhisperLockBot](https://t.me/WhisperLockBot)__ : _Sends a locked message only the intended recipient can open, inline. Free tier, one-time 150 Stars Pro upgrade, Mini App included._
-  - __[NudgeRemindBot](https://t.me/NudgeRemindBot)__ : _Sets reminders using six time input formats. Free tier, one-time 150 Stars Pro upgrade, Mini App included._
-  - __[AnonInboxProBot](https://t.me/AnonInboxProBot)__ : _Anonymous inbox that collects messages sent through a personal link. Free tier, one-time 150 Stars Pro upgrade, Mini App included._
-  - __[SplitTabsBot](https://t.me/SplitTabsBot)__ : _Splits group bills and tracks who owes what. Free tier, one-time 150 Stars Pro upgrade, Mini App included._
-  - __[HabitStreakProBot](https://t.me/HabitStreakProBot)__ : _Tracks daily habit check-ins and streaks. Free tier, one-time 150 Stars Pro upgrade, Mini App included._
+  - __[WhisperLockBot](https://t.me/WhisperLockBot?start=awesome)__ : _Sends a locked message only the intended recipient can open, inline. Free tier, one-time 150 Stars Pro upgrade, Mini App included._
+  - __[NudgeRemindBot](https://t.me/NudgeRemindBot?start=awesome)__ : _Sets reminders using six time input formats. Free tier, one-time 150 Stars Pro upgrade, Mini App included._
+  - __[AnonInboxProBot](https://t.me/AnonInboxProBot?start=awesome)__ : _Anonymous inbox that collects messages sent through a personal link. Free tier, one-time 150 Stars Pro upgrade, Mini App included._
+  - __[SplitTabsBot](https://t.me/SplitTabsBot?start=awesome)__ : _Splits group bills and tracks who owes what. Free tier, one-time 150 Stars Pro upgrade, Mini App included._
+  - __[HabitStreakProBot](https://t.me/HabitStreakProBot?start=awesome)__ : _Tracks daily habit check-ins and streaks. Free tier, one-time 150 Stars Pro upgrade, Mini App included._
   - __[n8n-json-feed-to-telegram](https://github.com/DeusAcc/n8n-json-feed-to-telegram)__ - Free n8n workflow that polls a JSON endpoint and alerts on Telegram only for new entries passing a filter, no external database.
 
   ## OpenSource
