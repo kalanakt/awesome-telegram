@@ -156,6 +156,7 @@
   - __[Rose](https://t.me/MissRose_bot)__ : _Powerful telegram bot to help you manage your groups._
   - __[InviteMemberBot ](https://t.me/InviteMemberBot )__ : _membership bot platform for paid Telegram channels and groups_
   - __[OmniGest](https://t.me/OmniGest_bot)__ : _Free all-in-one group management bot with anti-spam, captcha, AI moderation, custom commands, welcome messages, and a web dashboard._
+  - __[Limzo](https://t.me/LimzoRobot?start=kalanakt)__ : _Anti-spam and group protection bot with join captcha, fake-admin and link checks, and flood control, plus weekly group stats._
 
   ### Url Upload Bots
   
