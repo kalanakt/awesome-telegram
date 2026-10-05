@@ -242,6 +242,7 @@
   - __[Nicegram Android](https://github.com/nicegram/Nicegram-Android)__ : _Telegram API-based messenger that offers enhanced opportunities for business and personal communication alike._
   - __[Nicegram iOS](https://github.com/nicegram/Nicegram-iOS)__ : _Telegram API-based messenger that offers enhanced opportunities for business and personal communication alike._  
   - __[Plus Messenger](https://github.com/rafalense/Plus-Messenger)__ : _Unofficial Android client that uses Telegram's API._
+  - __[TMPlayer](https://github.com/dracu-lah/TMPlayer)__ : _Unofficial open source Telegram video player for Android TV, phones, Windows and Linux that streams videos in your chats while they download._
   - __[Unigram ](https://github.com/UnigramDev/Unigram)__ : _A Telegram client optimized for Windows 10 (desktop and Xbox One)._
   - __[Kotatogram Desktop](https://github.com/kotatogram/kotatogram-desktop)__ : _Experimental Telegram Desktop fork._  
   - __[MadelineProto ](https://github.com/danog/MadelineProto)__ : _A PHP MTProto Telegram client._
