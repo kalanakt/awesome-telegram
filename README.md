@@ -214,6 +214,7 @@
   - __[SplitTabsBot](https://t.me/SplitTabsBot)__ : _Splits group bills and tracks who owes what. Free tier, one-time 150 Stars Pro upgrade, Mini App included._
   - __[HabitStreakProBot](https://t.me/HabitStreakProBot)__ : _Tracks daily habit check-ins and streaks. Free tier, one-time 150 Stars Pro upgrade, Mini App included._
   - __[n8n-json-feed-to-telegram](https://github.com/DeusAcc/n8n-json-feed-to-telegram)__ - Free n8n workflow that polls a JSON endpoint and alerts on Telegram only for new entries passing a filter, no external database.
+  - __[TV-Hub Bot](https://t.me/TvHub_Bot)__ : _Executes crypto trading signals that you forward from Telegram channels on Binance, Bybit, OKX, KuCoin, Coinbase, Bitget and Hyperliquid. Sends trade notifications and manages open positions with `/trade`. Demo accounts free. [Website](https://www.tv-hub.org/)_
 
   ## OpenSource
   
