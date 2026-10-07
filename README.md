@@ -148,6 +148,7 @@
   - __[Gamee](https://t.me/gamee)__ : _Play tons of addictive games without installing any additional apps._
   - __[Chess Bot](https://t.me/ChessBot)__ : _Play chess with Telegram Chessbot._
   - __[DnD5Char](https://t.me/dnd5char_bot)__ : _Create and manage D&D 5e characters in Russian, with a Mini App character sheet._
+  - __[Life Sim](https://t.me/Lsimgamebot?start=src_github)__ : _A life simulation game where you live a whole life, from school and work to love and money._
   
   ### Group Manager Bots
   
