@@ -145,10 +145,12 @@
   
   ### Game Bots
   
+  - __[Bus Station](https://t.me/busstationgame_bot?startapp=cp_6ee938565e951033)__ : _Color-matching bus puzzle in a Telegram Mini App; checked preview interface in English._
   - __[Gamee](https://t.me/gamee)__ : _Play tons of addictive games without installing any additional apps._
   - __[Chess Bot](https://t.me/ChessBot)__ : _Play chess with Telegram Chessbot._
   - __[DnD5Char](https://t.me/dnd5char_bot)__ : _Create and manage D&D 5e characters in Russian, with a Mini App character sheet._
   
+
   ### Group Manager Bots
   
   - __[AirNope](https://t.me/airnope_bot)__ : _keeps Telegram groups clean from cryptocurrency ”airdrop” spam (and is [open-source](https://github.com/cuducos/airnope))_
