@@ -148,7 +148,9 @@
   - __[Gamee](https://t.me/gamee)__ : _Play tons of addictive games without installing any additional apps._
   - __[Chess Bot](https://t.me/ChessBot)__ : _Play chess with Telegram Chessbot._
   - __[DnD5Char](https://t.me/dnd5char_bot)__ : _Create and manage D&D 5e characters in Russian, with a Mini App character sheet._
+  - __[Tower Defense Bliss](https://t.me/TowerDefenceGame_bot?startapp=cp_852fa61276a35155)__ : _Tower-defense game with progressively unlocked towers; checked interface in Russian._
   
+
   ### Group Manager Bots
   
   - __[AirNope](https://t.me/airnope_bot)__ : _keeps Telegram groups clean from cryptocurrency ”airdrop” spam (and is [open-source](https://github.com/cuducos/airnope))_
