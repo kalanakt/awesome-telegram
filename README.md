@@ -46,6 +46,7 @@
       - [Sticker Bots](#sticker-bots)
       - [Renamer Bots](#renamer-bots)
       - [Other Bots](#other-bots)
+    - [Web Tools](#web-tools)
      
     - [OpenSource](#opensource)
       - [OpenSource Apps](#opensource-apps)
@@ -214,6 +215,10 @@
   - __[SplitTabsBot](https://t.me/SplitTabsBot)__ : _Splits group bills and tracks who owes what. Free tier, one-time 150 Stars Pro upgrade, Mini App included._
   - __[HabitStreakProBot](https://t.me/HabitStreakProBot)__ : _Tracks daily habit check-ins and streaks. Free tier, one-time 150 Stars Pro upgrade, Mini App included._
   - __[n8n-json-feed-to-telegram](https://github.com/DeusAcc/n8n-json-feed-to-telegram)__ - Free n8n workflow that polls a JSON endpoint and alerts on Telegram only for new entries passing a filter, no external database.
+
+  ## Web Tools
+  
+  - __[TeleTraff](https://teletraff.com/en)__ : _Browser panel for running several Telegram accounts: session and tdata import, proxies, account warm-up, AI comments under channel posts and audience parsing._
 
   ## OpenSource
   
