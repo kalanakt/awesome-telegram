@@ -254,6 +254,7 @@
 
   - __[Telegram Archive](https://github.com/GeiserX/Telegram-Archive)__ : _Automated Telegram backup with Docker. Performs incremental backups of messages and media with a web viewer, real-time listener, and push notifications._
   - __[Telegram Media Downloader](https://github.com/rfsbraz/telegram-downloader)__ : _Self-hosted daemon that automatically downloads media from Telegram channels, groups, and forum topics. Supports filtering, duplicate detection, and Docker._
+  - __[tg-chat-dump](https://github.com/renkagod/tg-chat-dump)__ : _Dumps whole Telegram chats and forums into SQLite, JSONL and one folder per topic at 100,000+ messages a minute: about 110,000/min with two accounts in Telegram's takeout mode, ~4× Telegram Desktop's export measured on the same group._
   - __[tlgr](https://github.com/tlgrcli/tlgr)__ : _Command-line client for a personal Telegram account, built for scripts and AI agents, with JSON output, a background daemon, and webhook event push._
 
   ### OpenSource Bots
