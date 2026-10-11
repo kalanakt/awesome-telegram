@@ -149,7 +149,7 @@
   - __[Chess Bot](https://t.me/ChessBot)__ : _Play chess with Telegram Chessbot._
   - __[DnD5Char](https://t.me/dnd5char_bot)__ : _Create and manage D&D 5e characters in Russian, with a Mini App character sheet._
   - __[Who Knows Me Best](https://t.me/Whoknowsmebestbot?start=src_github)__ : _Create a quiz about yourself and find out which friends and family know you best, in 10 languages._
-  
+  - __[Games with Friends](https://t.me/BoardingGames_bot?start=src_catalog_awesome)__ : _Board and card games in a Telegram Mini App, including Durak, chess, backgammon and dominoes. Play table games with friends or bots, or choose solo puzzles such as Sudoku and 2048._
   ### Group Manager Bots
   
   - __[AirNope](https://t.me/airnope_bot)__ : _keeps Telegram groups clean from cryptocurrency ”airdrop” spam (and is [open-source](https://github.com/cuducos/airnope))_
@@ -199,6 +199,8 @@
   - __[DeepAlpha Bot](https://t.me/DeepAlphaVault_bot)__ : _AI crypto trading bot. Manage AI, Grid, and DCA bots across 12 exchanges from Telegram. Check positions, PnL, balance. Free 7-day trial. [Website](https://deepalphabot.com)_
   - __[CoinPing](https://t.me/CoinPingAlertBot)__ : _Multi-condition crypto price alerts via Telegram: price thresholds, 24h % change, and cross-exchange spreads. [Open Source](https://github.com/SeigeC/coinping-bot). Free tier: 3 alerts._
   - __[Account Created Date](https://t.me/AccountCreatedBot)__ : _Estimate Telegram account creation dates via forwarded messages, usernames, or contacts. Supports multiple languages._
+  - __[TGScope Channel Creation Date](https://tgscope.io/tools/telegram-channel-creation-date)__ : _Web tool that estimates the creation period of a Telegram channel or supergroup from its username, t.me link or numeric ID._
+  - __[TGScope Channel Audit](https://tgscope.io/tools/telegram-channel-audit)__ : _Web tool that shows what share of a Telegram channel's subscribers actually view its posts, compares it with similar channels and forecasts ad views._
   - __[Mitup](https://t.me/mitupbot?start=src_awesome)__ : _Organize meetups with your Telegram groups without adding a bot to them: RSVPs, waiting lists, and reminders in each person's timezone. [Open Source](https://gitlab.com/meetupbot/mitup-telegram-bot). [Website](https://mitup.social)._
   - __[CaptainPost](https://t.me/CaptainPost_bot)__ : _Automates publishing across a network of Telegram channels — route posts between the channels you own, with per-route review queues, scheduling, link rewriting and source attribution. Free tier. [Website](https://captainpost.pages.dev)_
   - __[Crawlbench Alerts](https://t.me/CrawlbenchAlertsBot)__ : _Telegram bot that sends Facebook Marketplace match alerts from Crawlbench. [Website](https://crawlbench.com)_
@@ -214,7 +216,9 @@
   - __[AnonInboxProBot](https://t.me/AnonInboxProBot)__ : _Anonymous inbox that collects messages sent through a personal link. Free tier, one-time 150 Stars Pro upgrade, Mini App included._
   - __[SplitTabsBot](https://t.me/SplitTabsBot)__ : _Splits group bills and tracks who owes what. Free tier, one-time 150 Stars Pro upgrade, Mini App included._
   - __[HabitStreakProBot](https://t.me/HabitStreakProBot)__ : _Tracks daily habit check-ins and streaks. Free tier, one-time 150 Stars Pro upgrade, Mini App included._
+  - __[Tiny Telegram Tools](https://tg.zovo.one)__ : _22 free Telegram bots, each with a Mini App: countdown timers, reminders, group statistics, bill splitting, habit tracking and more, each with step-by-step guides in 7 languages. [Website](https://tg.zovo.one)._
   - __[n8n-json-feed-to-telegram](https://github.com/DeusAcc/n8n-json-feed-to-telegram)__ - Free n8n workflow that polls a JSON endpoint and alerts on Telegram only for new entries passing a filter, no external database.
+  - __[TV-Hub Bot](https://t.me/TvHub_Bot)__ : _Executes crypto trading signals that you forward from Telegram channels on Binance, Bybit, OKX, KuCoin, Coinbase, Bitget and Hyperliquid. Sends trade notifications and manages open positions with `/trade`. Demo accounts free. [Website](https://www.tv-hub.org/)_
 
   ## OpenSource
   
@@ -243,12 +247,14 @@
   - __[Nicegram Android](https://github.com/nicegram/Nicegram-Android)__ : _Telegram API-based messenger that offers enhanced opportunities for business and personal communication alike._
   - __[Nicegram iOS](https://github.com/nicegram/Nicegram-iOS)__ : _Telegram API-based messenger that offers enhanced opportunities for business and personal communication alike._  
   - __[Plus Messenger](https://github.com/rafalense/Plus-Messenger)__ : _Unofficial Android client that uses Telegram's API._
+  - __[TMPlayer](https://github.com/dracu-lah/TMPlayer)__ : _Unofficial open source Telegram video player for Android TV, phones, Windows and Linux that streams videos in your chats while they download._
   - __[Unigram ](https://github.com/UnigramDev/Unigram)__ : _A Telegram client optimized for Windows 10 (desktop and Xbox One)._
   - __[Kotatogram Desktop](https://github.com/kotatogram/kotatogram-desktop)__ : _Experimental Telegram Desktop fork._  
   - __[MadelineProto ](https://github.com/danog/MadelineProto)__ : _A PHP MTProto Telegram client._
 
   - __[Telegram Archive](https://github.com/GeiserX/Telegram-Archive)__ : _Automated Telegram backup with Docker. Performs incremental backups of messages and media with a web viewer, real-time listener, and push notifications._
   - __[Telegram Media Downloader](https://github.com/rfsbraz/telegram-downloader)__ : _Self-hosted daemon that automatically downloads media from Telegram channels, groups, and forum topics. Supports filtering, duplicate detection, and Docker._
+  - __[tlgr](https://github.com/tlgrcli/tlgr)__ : _Command-line client for a personal Telegram account, built for scripts and AI agents, with JSON output, a background daemon, and webhook event push._
 
   ### OpenSource Bots
   
@@ -304,6 +310,7 @@
   #### OpenSource Other Bots
   - __[AiogramShopBot](https://github.com/ilyarolf/AiogramShopBot)__  By [Ilyarolf](https://github.com/ilyarolf) : _Open-source Telegram shop bot built with Aiogram 3, supporting digital and physical product sales, cryptocurrency payments (BTC, ETH, LTC, SOL, BNB, USDT), referral system and web admin panel._
   - __[CC Telegram Bridge](https://github.com/cloveric/cc-telegram-bridge)__  By [cloveric](https://github.com/cloveric) : _Run real Claude Code & Codex CLI natively on Telegram — multi-bot, sessions, memory, Agent Bus, voice input, budget caps._
+  - __[Claude Telegram Supercharged](https://github.com/k1p1l0/claude-telegram-supercharged)__  By [k1p1l0](https://github.com/k1p1l0) : _Drop-in upgrade for the official Claude Code Telegram plugin with voice transcription and replies, message history and memory, live tool progress, and a self-restarting daemon._
   - __[English Wikipedia Link Converter](https://github.com/jnton/english-wikipedia-link-converter-telegram-bot)__  By [JnTon](https://github.com/jnton) : _Telegram bot that converts any non-English Wikipedia link into its English equivalent_
   - __[freqtrade](https://github.com/freqtrade/freqtrade)__  By [freqtrade](https://github.com/freqtrade) : _Free, open source crypto trading bot_
   - __[rss bot](https://github.com/iovxw/rssbot)__  By [iovxw](https://github.com/iovxw) : _Lightweight Telegram RSS notification bot._
