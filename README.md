@@ -46,6 +46,7 @@
       - [Sticker Bots](#sticker-bots)
       - [Renamer Bots](#renamer-bots)
       - [Other Bots](#other-bots)
+    - [Web Tools](#web-tools)
      
     - [OpenSource](#opensource)
       - [OpenSource Apps](#opensource-apps)
@@ -222,6 +223,10 @@
   - __[n8n-json-feed-to-telegram](https://github.com/DeusAcc/n8n-json-feed-to-telegram)__ - Free n8n workflow that polls a JSON endpoint and alerts on Telegram only for new entries passing a filter, no external database.
   - __[Your Ads Here](https://t.me/youradsherebot?start=src_github)__ : _Post a free daily ad for your channel, group, bot or business, translated into English and reviewed by a human before publication._
   - __[TV-Hub Bot](https://t.me/TvHub_Bot)__ : _Executes crypto trading signals that you forward from Telegram channels on Binance, Bybit, OKX, KuCoin, Coinbase, Bitget and Hyperliquid. Sends trade notifications and manages open positions with `/trade`. Demo accounts free. [Website](https://www.tv-hub.org/)_
+
+  ## Web Tools
+  
+  - __[TeleTraff](https://teletraff.com/en)__ : _Browser panel for running several Telegram accounts: session and tdata import, proxies, account warm-up, AI comments under channel posts and audience parsing._
 
   ## OpenSource
   
