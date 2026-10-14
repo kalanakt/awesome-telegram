@@ -148,6 +148,7 @@
 
   - __[Cavegram](https://t.me/CavegramBot)__ : _Free drawing games for group chats: Telephone, Squiggle and Monster._
   - __[Gamee](https://t.me/gamee)__ : _Play tons of addictive games without installing any additional apps._
+  - __[Bumpkin Legends](https://t.me/Bumpkinlegends_bot)__ : _Pixel-art MMORPG Mini App: hunt monsters, fight the World Boss, join clan wars, collect pets and trade on a player market._
   - __[Chess Bot](https://t.me/ChessBot)__ : _Play chess with Telegram Chessbot._
   
   ### Group Manager Bots
