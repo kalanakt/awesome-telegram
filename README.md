@@ -145,10 +145,10 @@
   
   ### Game Bots
   
-  - __[Gamee](https://t.me/gamee)__ : _Play tons of addictive games without installing any additional apps._
   - __[Chess Bot](https://t.me/ChessBot)__ : _Play chess with Telegram Chessbot._
   - __[DnD5Char](https://t.me/dnd5char_bot)__ : _Create and manage D&D 5e characters in Russian, with a Mini App character sheet._
-  - __[Poker Road](https://t.me/pokerroad_bot?startapp=cp_29e49717fc817484)__ : _Solo poker journey with virtual chips and no cash winnings; checked menu in Russian._
+  - __[Gamee](https://t.me/gamee)__ : _Play tons of addictive games without installing any additional apps._
+  - __[Poker Road](https://t.me/pokerroad_bot?startapp=cp_29e49717fc817484)__ : _Solo Texas Hold'em against computer opponents in Telegram, with virtual chips and no cash prizes. English interface available._
   
 
   ### Group Manager Bots
