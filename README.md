@@ -145,10 +145,10 @@
   
   ### Game Bots
   
-  - __[Ant Atelier](https://t.me/antsinthepainting_bot?startapp=cp_8d28700ffd38ef4b)__ : _Color-queue painting puzzle in a Telegram Mini App; checked preview interface in English._
-  - __[Gamee](https://t.me/gamee)__ : _Play tons of addictive games without installing any additional apps._
+  - __[Ant Atelier](https://t.me/antsinthepainting_bot?startapp=cp_8d28700ffd38ef4b)__ : _A Telegram Mini App painting puzzle with colored ant units and a Russian interface._
   - __[Chess Bot](https://t.me/ChessBot)__ : _Play chess with Telegram Chessbot._
   - __[DnD5Char](https://t.me/dnd5char_bot)__ : _Create and manage D&D 5e characters in Russian, with a Mini App character sheet._
+  - __[Gamee](https://t.me/gamee)__ : _Play tons of addictive games without installing any additional apps._
   
 
   ### Group Manager Bots
