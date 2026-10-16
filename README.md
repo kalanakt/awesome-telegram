@@ -189,6 +189,7 @@
   
   ### Other Bots
   
+  - __[LokaSay](https://t.me/LokaSayLanguage_bot?startapp=cp_9d908ebb0f75935c)__ : _English, Thai and Bahasa Indonesia practice in Telegram with Roger the sphynx cat. Russian interface._
   - __[Table of Contents Bot](https://t.me/oglavlenie_shop_bot)__ : _A bot for Telegram channel admins to create and manage a table of contents (navigation index) for their channel posts. Helps subscribers quickly find key posts, series, and themed content._
   - __[TOPTL](https://t.me/toptlbot)__ : _Discover Telegram channels, groups, and bots, and vote for your favorites. [Website](https://toptl.net)._
   - __[Wikipedia Search](https://t.me/wiki)__ : _Search for wiki article in any chats or groups, no need to add it anywhere. Simply type @wiki in any chat, then type your query (without hitting 'send'). Bot will open a panel with Wikipedia article suggestions. Tap on an item to send it to your chat partner right away._
@@ -225,6 +226,7 @@
 
   ## OpenSource
   
+
   ### OpenSource Apps
   
   #### Official Apps
