@@ -145,10 +145,10 @@
   
   ### Game Bots
   
-  - __[Gamee](https://t.me/gamee)__ : _Play tons of addictive games without installing any additional apps._
   - __[Chess Bot](https://t.me/ChessBot)__ : _Play chess with Telegram Chessbot._
   - __[DnD5Char](https://t.me/dnd5char_bot)__ : _Create and manage D&D 5e characters in Russian, with a Mini App character sheet._
-  - __[Living Frontier](https://t.me/ZhivoyRubezhGameBot?start=cp_080504200dcbf29a)__ : _Mission-based defense game in a Telegram Mini App; checked preview interface in English._
+  - __[Gamee](https://t.me/gamee)__ : _Play tons of addictive games without installing any additional apps._
+  - __[Living Frontier](https://t.me/ZhivoyRubezhGameBot?start=cp_080504200dcbf29a)__ : _A Telegram strategy game with an outpost campaign preview and a separate classic-defense mode. Russian interface._
   
 
   ### Group Manager Bots
