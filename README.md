@@ -151,6 +151,7 @@
   - __[Daily Score](https://t.me/DailyScorefootbot/play?startapp=src_github)__ : _Guess the score of the big football match of the day and climb the leaderboard with your friends._
   - __[Who Knows Me Best](https://t.me/Whoknowsmebestbot?start=src_github)__ : _Create a quiz about yourself and find out which friends and family know you best, in 10 languages._
   - __[Games with Friends](https://t.me/BoardingGames_bot?start=src_catalog_awesome)__ : _Board and card games in a Telegram Mini App, including Durak, chess, backgammon and dominoes. Play table games with friends or bots, or choose solo puzzles such as Sudoku and 2048._
+  - __[WordRaceGroupBot](https://t.me/WordRaceGroupBot)__ : _Daily 5-letter word game for group chats, six tries each in a private chat and the group results in the evening; it also works solo. Free, Pro optional._
   
   ### Group Manager Bots
   
