@@ -222,6 +222,7 @@
   - __[n8n-json-feed-to-telegram](https://github.com/DeusAcc/n8n-json-feed-to-telegram)__ - Free n8n workflow that polls a JSON endpoint and alerts on Telegram only for new entries passing a filter, no external database.
   - __[Your Ads Here](https://t.me/youradsherebot?start=src_github)__ : _Post a free daily ad for your channel, group, bot or business, translated into English and reviewed by a human before publication._
   - __[TV-Hub Bot](https://t.me/TvHub_Bot)__ : _Executes crypto trading signals that you forward from Telegram channels on Binance, Bybit, OKX, KuCoin, Coinbase, Bitget and Hyperliquid. Sends trade notifications and manages open positions with `/trade`. Demo accounts free. [Website](https://www.tv-hub.org/)_
+  - __[CrushCheckProBot](https://t.me/CrushCheckProBot)__ : _Share your link and friends secretly choose Like, Just friends or Skip. Names appear only when two people like each other. Free, Pro optional._
 
   ## OpenSource
   
