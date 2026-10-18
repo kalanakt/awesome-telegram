@@ -145,14 +145,16 @@
   
   ### Game Bots
   
-  - __[Gamee](https://t.me/gamee)__ : _Play tons of addictive games without installing any additional apps._
+  - __[Ant Atelier](https://t.me/antsinthepainting_bot?startapp=cp_8d28700ffd38ef4b)__ : _A Telegram Mini App painting puzzle with colored ant units and a Russian interface._
   - __[Chess Bot](https://t.me/ChessBot)__ : _Play chess with Telegram Chessbot._
   - __[DnD5Char](https://t.me/dnd5char_bot)__ : _Create and manage D&D 5e characters in Russian, with a Mini App character sheet._
+  - __[Gamee](https://t.me/gamee)__ : _Play tons of addictive games without installing any additional apps._
   - __[Life Sim](https://t.me/Lsimgamebot?start=src_github)__ : _A life simulation game where you live a whole life, from school and work to love and money._
   - __[Daily Score](https://t.me/DailyScorefootbot/play?startapp=src_github)__ : _Guess the score of the big football match of the day and climb the leaderboard with your friends._
   - __[Who Knows Me Best](https://t.me/Whoknowsmebestbot?start=src_github)__ : _Create a quiz about yourself and find out which friends and family know you best, in 10 languages._
   - __[Games with Friends](https://t.me/BoardingGames_bot?start=src_catalog_awesome)__ : _Board and card games in a Telegram Mini App, including Durak, chess, backgammon and dominoes. Play table games with friends or bots, or choose solo puzzles such as Sudoku and 2048._
   
+
   ### Group Manager Bots
   
   - __[AirNope](https://t.me/airnope_bot)__ : _keeps Telegram groups clean from cryptocurrency ”airdrop” spam (and is [open-source](https://github.com/cuducos/airnope))_
