@@ -228,6 +228,7 @@
   - __[ChatPal](https://t.me/mybestfriend_ai_en_bot?start=src_github)__ : _An AI friend you can chat with in your language, with quizzes and games for groups._
   - __[Your Ads Here](https://t.me/youradsherebot?start=src_github)__ : _Post a free daily ad for your channel, group, bot or business, translated into English and reviewed by a human before publication._
   - __[TV-Hub Bot](https://t.me/TvHub_Bot)__ : _Executes crypto trading signals that you forward from Telegram channels on Binance, Bybit, OKX, KuCoin, Coinbase, Bitget and Hyperliquid. Sends trade notifications and manages open positions with `/trade`. Demo accounts free. [Website](https://www.tv-hub.org/)_
+  - __[CryptoAML](https://t.me/cryptoamlscan_bot)__ : _Checks a crypto wallet address for AML risk across 17 networks and reports direct OFAC matches separately, with one free check before paid ones._
 
   ## OpenSource
   
