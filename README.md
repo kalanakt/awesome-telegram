@@ -195,6 +195,7 @@
  - __[SUCH Bot Builder](https://t.me/SUCH)__ : _AI chatbot builder designed for channel admins, bot developers, business owners, and community managers to quickly and easily create free feedback and support bots._
  - __[ozvuchka_free_bot](https://t.me/ozvuchka_free_bot)__ : _Free Russian TTS bot — text to voice message, lifelike AI voices, no limits._
  - __[FinanceWhisper](https://t.me/FinanceWhisper_bot)__ : _Tracks stocks, crypto, and forex you care about and alerts you on price targets, real percent moves, and genuinely significant news. Talk to it in plain English. Free tier included, premium via Telegram Stars._
+ - __[TempMail Hub Bot](https://t.me/tempmail_hub_bot)__ : _Temporary email inside Telegram — get a disposable inbox and receive emails and confirmation codes right in the chat. No sign-up, inbox lifetime up to 7 days. [Website](https://tempmailhub.net)._
 
   ## OpenSource
   
