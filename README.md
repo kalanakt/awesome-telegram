@@ -248,6 +248,7 @@
   - __[CountdownDaysBot](https://t.me/CountdownDaysBot)__ : _Countdown to a date in a group or private chat, shown as one card that is edited each day. Free for 2 countdowns per chat, Pro optional._
   - __[CrushCheckProBot](https://t.me/CrushCheckProBot)__ : _Share your link and friends secretly choose Like, Just friends or Skip. Names appear only when two people like each other. Free, Pro optional._
   - __[TermiGram](https://t.me/TermiGram_Robot)__ : _SSH terminal and SFTP file manager inside Telegram, with a permanent free plan. [Website](https://termigram.com)._
+  - __[T-Social](https://t.me/TSocialAppBot)__ : _TikTok-style social Mini App for Telegram: short clips, trending creators, AI chat characters. 18+._
 
   ## OpenSource
   
