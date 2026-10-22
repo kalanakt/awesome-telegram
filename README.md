@@ -252,6 +252,7 @@
   - __[Tarot Astral](https://t.me/Tar0_Astral_bot?start=gh_awesome)__ : _AI tarot, astrology and manifestation readings from three reader personas in English and Russian, first reading free._
   - __[CopyHype](https://t.me/copyhypefamilybot)__ : _Copy active Hyperliquid traders in one tap or trade crypto, stocks, gold, indices and meme perps solo, from a non-custodial wallet, with a free 7-day practice mode. [Website](https://copyhype.family)_
   - __[CryptoAML](https://t.me/cryptoamlscan_bot)__ : _Checks a crypto wallet address for AML risk across 17 networks and reports direct OFAC matches separately, with one free check before paid ones._
+  - __[Aura](https://t.me/you_aura_bot)__ : _Random one-on-one video chat to meet people worldwide: swipe to match, language filters, built-in mini-games. Free inside Telegram, no install._
 
   ## OpenSource
   
