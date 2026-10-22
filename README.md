@@ -247,6 +247,7 @@
   - __[TeleCrow](https://telecrow.com)__ : _No-code builder for Telegram shop, paid channel, giveaway and support bots, with Telegram Stars payments and automatic file delivery._
   - __[CountdownDaysBot](https://t.me/CountdownDaysBot)__ : _Countdown to a date in a group or private chat, shown as one card that is edited each day. Free for 2 countdowns per chat, Pro optional._
   - __[CrushCheckProBot](https://t.me/CrushCheckProBot)__ : _Share your link and friends secretly choose Like, Just friends or Skip. Names appear only when two people like each other. Free, Pro optional._
+  - __[TermiGram](https://t.me/TermiGram_Robot)__ : _SSH terminal and SFTP file manager inside Telegram, with a permanent free plan. [Website](https://termigram.com)._
 
   ## OpenSource
   
