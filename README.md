@@ -46,6 +46,7 @@
       - [Sticker Bots](#sticker-bots)
       - [Renamer Bots](#renamer-bots)
       - [Other Bots](#other-bots)
+    - [Web Tools](#web-tools)
      
     - [OpenSource](#opensource)
       - [OpenSource Apps](#opensource-apps)
@@ -253,6 +254,10 @@
   - __[CopyHype](https://t.me/copyhypefamilybot)__ : _Copy active Hyperliquid traders in one tap or trade crypto, stocks, gold, indices and meme perps solo, from a non-custodial wallet, with a free 7-day practice mode. [Website](https://copyhype.family)_
   - __[CryptoAML](https://t.me/cryptoamlscan_bot)__ : _Checks a crypto wallet address for AML risk across 17 networks and reports direct OFAC matches separately, with one free check before paid ones._
   - __[Aura](https://t.me/you_aura_bot)__ : _Random one-on-one video chat to meet people worldwide: swipe to match, language filters, built-in mini-games. Free inside Telegram, no install._
+
+  ## Web Tools
+  
+  - __[TeleTraff](https://teletraff.com/en)__ : _Browser panel for running several Telegram accounts: session and tdata import, proxies, account warm-up, AI comments under channel posts and audience parsing._
 
   ## OpenSource
   
