@@ -246,6 +246,7 @@
   - __[TG Market](https://tgmarket.io/)__ : _Web catalog of public Telegram channels with search by topic, language and country, subscriber and reach history, ER, ad history, exports, REST API and a remote MCP server._
   - __[TeleCrow](https://telecrow.com)__ : _No-code builder for Telegram shop, paid channel, giveaway and support bots, with Telegram Stars payments and automatic file delivery._
   - __[CountdownDaysBot](https://t.me/CountdownDaysBot)__ : _Countdown to a date in a group or private chat, shown as one card that is edited each day. Free for 2 countdowns per chat, Pro optional._
+  - __[CrushCheckProBot](https://t.me/CrushCheckProBot)__ : _Share your link and friends secretly choose Like, Just friends or Skip. Names appear only when two people like each other. Free, Pro optional._
 
   ## OpenSource
   
