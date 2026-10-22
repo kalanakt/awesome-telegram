@@ -250,6 +250,7 @@
   - __[TermiGram](https://t.me/TermiGram_Robot)__ : _SSH terminal and SFTP file manager inside Telegram, with a permanent free plan. [Website](https://termigram.com)._
   - __[T-Social](https://t.me/TSocialAppBot)__ : _TikTok-style social Mini App for Telegram: short clips, trending creators, AI chat characters. 18+._
   - __[Tarot Astral](https://t.me/Tar0_Astral_bot?start=gh_awesome)__ : _AI tarot, astrology and manifestation readings from three reader personas in English and Russian, first reading free._
+  - __[CopyHype](https://t.me/copyhypefamilybot)__ : _Copy active Hyperliquid traders in one tap or trade crypto, stocks, gold, indices and meme perps solo, from a non-custodial wallet, with a free 7-day practice mode. [Website](https://copyhype.family)_
 
   ## OpenSource
   
