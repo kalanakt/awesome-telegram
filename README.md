@@ -242,6 +242,7 @@
   - __[ChatPal](https://t.me/mybestfriend_ai_en_bot?start=src_github)__ : _An AI friend you can chat with in your language, with quizzes and games for groups._
   - __[Your Ads Here](https://t.me/youradsherebot?start=src_github)__ : _Post a free daily ad for your channel, group, bot or business, translated into English and reviewed by a human before publication._
   - __[TV-Hub Bot](https://t.me/TvHub_Bot)__ : _Executes crypto trading signals that you forward from Telegram channels on Binance, Bybit, OKX, KuCoin, Coinbase, Bitget and Hyperliquid. Sends trade notifications and manages open positions with `/trade`. Demo accounts free. [Website](https://www.tv-hub.org/)_
+  - __[LokaSay](https://t.me/LokaSayLanguage_bot?startapp=cp_9d908ebb0f75935c)__ : _English, Thai and Bahasa Indonesia practice in Telegram with Roger the sphynx cat. Russian interface._
 
   ## OpenSource
   
