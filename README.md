@@ -169,6 +169,7 @@
   - __[MostLikelyToProBot](https://t.me/MostLikelyToProBot)__ : _Most Likely To party game for group chats, with private votes and only the counts shown in the chat. Free, Pro optional._
   - __[WordRaceGroupBot](https://t.me/WordRaceGroupBot)__ : _Daily 5-letter word game for group chats, six tries each in a private chat and the group results in the evening; it also works solo. Free, Pro optional._
   - __[Obereg](https://t.me/obereg_game_bot?startapp=promo_awesome_tg)__ : _A dark folk-horror roguelike inside Telegram. Die mid-run and your loot burns. EN/RU._
+  - __[Cavegram](https://t.me/CavegramBot)__ : _Free drawing games for group chats: Telephone, Squiggle and Monster._
 
   ### Group Manager Bots
   
@@ -211,7 +212,7 @@
   - __[TOPTL](https://t.me/toptlbot)__ : _Discover Telegram channels, groups, and bots, and vote for your favorites. [Website](https://toptl.net)._
   - __[Wikipedia Search](https://t.me/wiki)__ : _Search for wiki article in any chats or groups, no need to add it anywhere. Simply type @wiki in any chat, then type your query (without hitting 'send'). Bot will open a panel with Wikipedia article suggestions. Tap on an item to send it to your chat partner right away._
   - __[Livegram Bot](https://t.me/LivegramBot)__ : _Livegram Bot is a builder of feedback bots for Telegram. This can be used to broadcast messages, get feedback messages in groups, get bot statistics and more._
-  - __[SUCH](https://t.me/such)__ : _feedback and support bot builder for channel admins, bot developers, business owners, and community managers._
+  - __[SUCH Bot Builder](https://t.me/SUCH)__ : _AI chatbot builder designed for channel admins, bot developers, business owners, and community managers to quickly and easily create free feedback and support bots._
   - __[@RealAddrBot](https://t.me/RealAddrBot)__ : _Free identity & address generator. 21 countries, 3 depth levels (basic/extended/full), built-in temp email inbox on private domain, 12 languages. Generates names, addresses, SSN, credit cards (Luhn-valid). Privacy-first, no logging. [Website](https://realaddrbot.com)_
   - __[Code Stars](https://t.me/code_stars)__ : _Code Stars highlights the most popular GitHub repos from the last hour, helping you discover innovative projects early._
   - __[Assignment Writer](https://t.me/MasterAssignmentBot)__ : _Assignment writer bot can write your assignments on different papers with handwritten fonts and colours within seconds._
@@ -254,6 +255,10 @@
   - __[CopyHype](https://t.me/copyhypefamilybot)__ : _Copy active Hyperliquid traders in one tap or trade crypto, stocks, gold, indices and meme perps solo, from a non-custodial wallet, with a free 7-day practice mode. [Website](https://copyhype.family)_
   - __[CryptoAML](https://t.me/cryptoamlscan_bot)__ : _Checks a crypto wallet address for AML risk across 17 networks and reports direct OFAC matches separately, with one free check before paid ones._
   - __[Aura](https://t.me/you_aura_bot)__ : _Random one-on-one video chat to meet people worldwide: swipe to match, language filters, built-in mini-games. Free inside Telegram, no install._
+  - __[Murka Dream Bot](https://t.me/MurkaDreamBot)__ : _AI-powered dream interpretation bot. Send a dream and get a personalized analysis. Works in DMs and groups. [Website](https://www.murkaverse.com)_
+  - __[ozvuchka_free_bot](https://t.me/ozvuchka_free_bot)__ : _Free Russian TTS bot — text to voice message, lifelike AI voices, no limits._
+  - __[FinanceWhisper](https://t.me/FinanceWhisper_bot)__ : _Tracks stocks, crypto, and forex you care about and alerts you on price targets, real percent moves, and genuinely significant news. Talk to it in plain English. Free tier included, premium via Telegram Stars._
+  - __[TempMail Hub Bot](https://t.me/tempmail_hub_bot)__ : _Temporary email inside Telegram — get a disposable inbox and receive emails and confirmation codes right in the chat. No sign-up, inbox lifetime up to 7 days. [Website](https://tempmailhub.net)._
 
   ## Web Tools
   
@@ -356,6 +361,7 @@
   - __[rss bot](https://github.com/iovxw/rssbot)__  By [iovxw](https://github.com/iovxw) : _Lightweight Telegram RSS notification bot._
   - __[Weight Goal Bot](https://t.me/my_weight_goal_bot)__  By [IgorShadurin](https://github.com/IgorShadurin) : _Apache-2.0 open-source group bot for photo-backed weekly weight goals, charts, reminders, and 53 achievements in nine languages. [Source](https://github.com/IgorShadurin/weight-telegram-bot)._
   - __[ZakupVarta](https://t.me/ProzzoroUkraineBot)__ By [vovasik07](https://github.com/vovasik07) : _MIT-licensed bot that monitors Prozorro tenders by keywords, region, and budget and alerts users to material changes. [Source](https://github.com/vovasik07/zakupvarta)._
+  - __[Broletter](https://github.com/landigf/Broletter)__  By [landigf](https://github.com/landigf) : _Personalized daily science briefing bot — reads arXiv every night, explains papers via Gemini, and delivers a tap-to-expand preview card so users only read what interests them. Supports Telegram Stars subscriptions._
 
 
   ## Telegram Bot Templates
