@@ -165,6 +165,7 @@
   - __[Bumpkin Legends](https://t.me/Bumpkinlegends_bot)__ : _Pixel-art MMORPG Mini App: hunt monsters, fight the World Boss, join clan wars, collect pets and trade on a player market._
   - __[SpyPartyProBot](https://t.me/SpyPartyProBot)__ : _Find-the-spy party game for group chats, 3 to 12 players, with secret places sent by private message. Free, Pro optional._
   - __[MafiaNightProBot](https://t.me/MafiaNightProBot)__ : _Mafia party game for group chats, with secret roles sent by private message and day votes in the chat. Free, Pro optional._
+  - __[MostLikelyToProBot](https://t.me/MostLikelyToProBot)__ : _Most Likely To party game for group chats, with private votes and only the counts shown in the chat. Free, Pro optional._
 
   ### Group Manager Bots
   
