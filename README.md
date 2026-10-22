@@ -249,6 +249,7 @@
   - __[CrushCheckProBot](https://t.me/CrushCheckProBot)__ : _Share your link and friends secretly choose Like, Just friends or Skip. Names appear only when two people like each other. Free, Pro optional._
   - __[TermiGram](https://t.me/TermiGram_Robot)__ : _SSH terminal and SFTP file manager inside Telegram, with a permanent free plan. [Website](https://termigram.com)._
   - __[T-Social](https://t.me/TSocialAppBot)__ : _TikTok-style social Mini App for Telegram: short clips, trending creators, AI chat characters. 18+._
+  - __[Tarot Astral](https://t.me/Tar0_Astral_bot?start=gh_awesome)__ : _AI tarot, astrology and manifestation readings from three reader personas in English and Russian, first reading free._
 
   ## OpenSource
   
