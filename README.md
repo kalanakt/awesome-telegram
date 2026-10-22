@@ -167,6 +167,7 @@
   - __[MafiaNightProBot](https://t.me/MafiaNightProBot)__ : _Mafia party game for group chats, with secret roles sent by private message and day votes in the chat. Free, Pro optional._
   - __[MostLikelyToProBot](https://t.me/MostLikelyToProBot)__ : _Most Likely To party game for group chats, with private votes and only the counts shown in the chat. Free, Pro optional._
   - __[WordRaceGroupBot](https://t.me/WordRaceGroupBot)__ : _Daily 5-letter word game for group chats, six tries each in a private chat and the group results in the evening; it also works solo. Free, Pro optional._
+  - __[Obereg](https://t.me/obereg_game_bot?startapp=promo_awesome_tg)__ : _A dark folk-horror roguelike inside Telegram. Die mid-run and your loot burns. EN/RU._
 
   ### Group Manager Bots
   
