@@ -245,6 +245,7 @@
   - __[LokaSay](https://t.me/LokaSayLanguage_bot?startapp=cp_9d908ebb0f75935c)__ : _English, Thai and Bahasa Indonesia practice in Telegram with Roger the sphynx cat. Russian interface._
   - __[TG Market](https://tgmarket.io/)__ : _Web catalog of public Telegram channels with search by topic, language and country, subscriber and reach history, ER, ad history, exports, REST API and a remote MCP server._
   - __[TeleCrow](https://telecrow.com)__ : _No-code builder for Telegram shop, paid channel, giveaway and support bots, with Telegram Stars payments and automatic file delivery._
+  - __[CountdownDaysBot](https://t.me/CountdownDaysBot)__ : _Countdown to a date in a group or private chat, shown as one card that is edited each day. Free for 2 countdowns per chat, Pro optional._
 
   ## OpenSource
   
