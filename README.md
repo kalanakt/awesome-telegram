@@ -161,6 +161,7 @@
   - __[Games with Friends](https://t.me/BoardingGames_bot?start=src_catalog_awesome)__ : _Board and card games in a Telegram Mini App, including Durak, chess, backgammon and dominoes. Play table games with friends or bots, or choose solo puzzles such as Sudoku and 2048._
   - __[Living Frontier](https://t.me/ZhivoyRubezhGameBot?start=cp_080504200dcbf29a)__ : _A Telegram strategy game with an outpost campaign preview and a separate classic-defense mode. Russian interface._
   - __[Poker Road](https://t.me/pokerroad_bot?startapp=cp_29e49717fc817484)__ : _Solo Texas Hold'em against computer opponents in Telegram, with virtual chips and no cash prizes. English interface available._
+  - __[Tower Defense Bliss](https://t.me/TowerDefenceGame_bot?startapp=cp_852fa61276a35155)__ : _A Telegram tower-defense game: place towers beside the path and protect a crystal from enemy waves. Russian interface._
 
   ### Group Manager Bots
   
