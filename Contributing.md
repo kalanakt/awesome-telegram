@@ -1,44 +1,45 @@
-
 # Contribution Guidelines
 
-### Please ensure your pull request adheres to the following guidelines:
+### Please make sure your pull request follows these guidelines:
 
 - Search previous suggestions before making a new one, as yours may be a duplicate.
-- Make an individual pull request for each suggestion.
+- Make a separate pull request for each suggestion.
 - Titles should be [capitalized](http://grammar.yourdictionary.com/capitalization/rules-for-capitalization-in-titles.html).
 - Keep descriptions short and simple.
 - End all descriptions with a full stop/period.
 - Check your spelling and grammar.
-- Don't Use Emoji or images
-- Don't Add Porn | Scam | Not maintenance Content
-- Try to make your Pull request and title as descriptive as possible.
-- New categories or improvements to the existing categorization are welcome.
+- Don't use emoji or images.
+- Don't add porn, scams or unmaintained content.
+- Make your pull request title as descriptive as possible.
+- New categories or improvements to the existing categories are welcome.
 
-### Exanples :
-- Adding sample Group To Exiting Catorgory Awesome Telegram 
-> Use Alphabetical Order
+### Examples
+
+#### Adding an entry to an existing category
+
+> Keep the list in alphabetical order.
 
 ```markdown
-### Exiting Catorgery
+### Existing Category
 
-- __[Your Group Name](Group Inviting Link)__ : _Simple Discription about group_
+- __[Your Bot Name](https://t.me/your_bot)__ : _A short description of your bot._
 ```
 
-- Adding sample Group To New Catorgory Awesome Telegram 
-> Convert Name to simple letter when adding (#link) 
+#### Adding a new category
+
+> Add the category to the Contents list too. The link is the heading in lowercase, with spaces replaced by hyphens.
 
 ```markdown
-- [Telegram Groups](#telegram-groups)
-  - [New Catorgery](#new-catorgry)
+- [Bots](#bots)
+  - [New Category](#new-category)
 
 ...
 
-### New Catorgery
+### New Category
 
-- __[Your Group Name](Group Inviting Link)__ : _Simple Discription about group_
+- __[Your Bot Name](https://t.me/your_bot)__ : _A short description of your bot._
 ```
 
 Thank you for your suggestions!
 
-
-### _[Edit Now](https://github.com/kalanakt/awesome-telegram/edit/main/README.md)_
+### _[Edit Now](https://github.com/kalanakt/awesome-telegram/edit/master/README.md)_
