@@ -214,6 +214,7 @@ Telegram is a free, cloud-based messaging app with optional end-to-end encrypted
 
 ## Web Tools
 
+- __[OpenSparta](https://opensparta.com/en)__ : _SaaS workspace for managing connected Telegram accounts and proxies, with relevant conversation discovery._
 - __[TeleTraff](https://teletraff.com/en)__ : _Browser panel for running several Telegram accounts: session and tdata import, proxies, account warm-up, AI comments under channel posts and audience parsing._
 - __[TG Market](https://tgmarket.io/)__ : _Web catalog of public Telegram channels with search by topic, language and country, subscriber and reach history, ER, ad history, exports, REST API and a remote MCP server._
 - __[TGScope Channel Audit](https://tgscope.io/tools/telegram-channel-audit)__ : _Web tool that shows what share of a Telegram channel's subscribers actually view its posts, compares it with similar channels and forecasts ad views._
