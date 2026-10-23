@@ -196,6 +196,7 @@
  - __[SUCH Bot Builder](https://t.me/SUCH)__ : _AI chatbot builder designed for channel admins, bot developers, business owners, and community managers to quickly and easily create free feedback and support bots._
  - __[ozvuchka_free_bot](https://t.me/ozvuchka_free_bot)__ : _Free Russian TTS bot — text to voice message, lifelike AI voices, no limits._
  - __[FinanceWhisper](https://t.me/FinanceWhisper_bot)__ : _Tracks stocks, crypto, and forex you care about and alerts you on price targets, real percent moves, and genuinely significant news. Talk to it in plain English. Free tier included, premium via Telegram Stars._
+ - __[WalletWatcher Alerts](https://t.me/WalletWatcherAlertsBot)__ : _Sends you a Telegram message whenever a crypto wallet you watch receives or sends funds. Read-only, public addresses only. Free for 1 wallet with no signup, Pro €6/month for 20 wallets. Public demo feed at [@whalemovesalert](https://t.me/whalemovesalert)._
 
   ## OpenSource
   
