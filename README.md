@@ -113,12 +113,12 @@ Telegram is a free, cloud-based messaging app with optional end-to-end encrypted
 - __[SpyPartyProBot](https://t.me/SpyPartyProBot)__ : _Find-the-spy party game for group chats, 3 to 12 players, with secret places sent by private message. Free, Pro optional._
 - __[Tower Defense Bliss](https://t.me/TowerDefenceGame_bot?startapp=cp_852fa61276a35155)__ : _A Telegram tower-defense game: place towers beside the path and protect a crystal from enemy waves. Russian interface._
 - __[Who Knows Me Best](https://t.me/Whoknowsmebestbot?start=src_github)__ : _Create a quiz about yourself and find out which friends and family know you best, in 10 languages._
-- __[WordRaceGroupBot](https://t.me/WordRaceGroupBot)__ : _Daily 5-letter word game for group chats, six tries each in a private chat and the group results in the evening; it also works solo. Free, Pro optional._
 
 ### Group Management
 
 - __[AirNope](https://t.me/airnope_bot)__ : _Keeps Telegram groups clean of cryptocurrency "airdrop" spam. [Open Source](https://github.com/cuducos/airnope)._
 - __[Group Help](https://t.me/GroupHelpBot)__ : _Complete bot to manage your groups easily and safely._
+- __[Group Shield](https://t.me/WordRaceGroupBot)__ : _Deletes messages with links, removes join and leave messages and mutes members who flood the chat. Every switch is off until an admin turns it on. Free, Pro optional._
 - __[InviteMemberBot](https://t.me/InviteMemberBot)__ : _Membership bot platform for paid Telegram channels and groups._
 - __[JoinApproveProBot](https://t.me/JoinApproveProBot)__ : _Approves join requests to channels and groups automatically and sends a welcome message. Free, Pro optional._
 - __[Limzo](https://t.me/LimzoRobot?start=kalanakt)__ : _Anti-spam and group protection bot with join captcha, fake-admin and link checks, and flood control, plus weekly group stats._
