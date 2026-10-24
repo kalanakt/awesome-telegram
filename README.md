@@ -97,6 +97,7 @@ Telegram is a free, cloud-based messaging app with optional end-to-end encrypted
 ### Games
 
 - __[Ant Atelier](https://t.me/antsinthepainting_bot?startapp=cp_8d28700ffd38ef4b)__ : _A Telegram Mini App painting puzzle with colored ant units and a Russian interface._
+- __[Blatnoy Nomer](https://t.me/blatnumber_bot?start=src_github)__ : _A Mini App game about collecting rare Russian license plates, trading with other players and live auctions. Russian interface._
 - __[Bumpkin Legends](https://t.me/Bumpkinlegends_bot)__ : _Pixel-art MMORPG Mini App: hunt monsters, fight the World Boss, join clan wars, collect pets and trade on a player market._
 - __[Bus Station](https://t.me/busstationgame_bot?startapp=cp_6ee938565e951033)__ : _A Telegram bus-color puzzle: match passengers, plan bus order and manage parking bays. English game board._
 - __[Cavegram](https://t.me/CavegramBot)__ : _Free drawing games for group chats: Telephone, Squiggle and Monster._
