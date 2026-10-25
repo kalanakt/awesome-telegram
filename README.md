@@ -196,6 +196,7 @@
  - __[SUCH Bot Builder](https://t.me/SUCH)__ : _AI chatbot builder designed for channel admins, bot developers, business owners, and community managers to quickly and easily create free feedback and support bots._
  - __[ozvuchka_free_bot](https://t.me/ozvuchka_free_bot)__ : _Free Russian TTS bot — text to voice message, lifelike AI voices, no limits._
  - __[FinanceWhisper](https://t.me/FinanceWhisper_bot)__ : _Tracks stocks, crypto, and forex you care about and alerts you on price targets, real percent moves, and genuinely significant news. Talk to it in plain English. Free tier included, premium via Telegram Stars._
+ - __[Freelancer Kit Bot](https://t.me/freelancerkitbot)__ : _Send a plain-text invoice description, get back a polished HTML invoice file. Pay per invoice with Telegram Stars, or subscribe for unlimited invoices for 30 days._
 
   ## OpenSource
   
