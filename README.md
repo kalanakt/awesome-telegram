@@ -168,6 +168,7 @@ Telegram is a free, cloud-based messaging app with optional end-to-end encrypted
 - __[Squelch](https://t.me/SquelchAlertsBot)__ : _Filtered crypto market alerts in Telegram: whale moves, funding-rate extremes, open-interest spikes, liquidations, new exchange listings and token risk flags. 24-hour free trial, then $19/month._
 - __[Squelch Check](https://t.me/SquelchCheckBot)__ : _Free token scam checker for Telegram groups: /check a ticker or contract on Ethereum, Base or Solana for honeypots, sell restrictions, mint/freeze powers and LP lock._
 - __[TV-Hub Bot](https://t.me/TvHub_Bot)__ : _Executes crypto trading signals that you forward from Telegram channels on Binance, Bybit, OKX, KuCoin, Coinbase, Bitget and Hyperliquid. Sends trade notifications and manages open positions with `/trade`. Demo accounts free. [Website](https://www.tv-hub.org/)._
+- __[Zeus Tools](https://t.me/TheZeusBuybot)__ : _Crypto buy and sell alerts for token groups on Arc, Robinhood Chain and Solana that name each buyer (whale, smart trader, new holder or bot), with a live Top 10 trending channel. [Website](https://zeustools.app)._
 
 ### Channel and Community Tools
 
