@@ -108,22 +108,23 @@ Telegram is a free, cloud-based messaging app with optional end-to-end encrypted
 - __[Life Sim](https://t.me/Lsimgamebot?start=src_github)__ : _A life simulation game where you live a whole life, from school and work to love and money._
 - __[Living Frontier](https://t.me/ZhivoyRubezhGameBot?start=cp_080504200dcbf29a)__ : _A Telegram strategy game with an outpost campaign preview and a separate classic-defense mode. Russian interface._
 - __[MafiaNightProBot](https://t.me/MafiaNightProBot)__ : _Mafia party game for group chats, with secret roles sent by private message and day votes in the chat. Free, Pro optional._
-- __[MostLikelyToProBot](https://t.me/MostLikelyToProBot)__ : _Most Likely To party game for group chats, with private votes and only the counts shown in the chat. Free, Pro optional._
 - __[Obereg](https://t.me/obereg_game_bot?startapp=promo_awesome_tg)__ : _A dark folk-horror roguelike inside Telegram. Die mid-run and your loot burns. EN/RU._
 - __[Poker Road](https://t.me/pokerroad_bot?startapp=cp_29e49717fc817484)__ : _Solo Texas Hold'em against computer opponents in Telegram, with virtual chips and no cash prizes. English interface available._
 - __[SpyPartyProBot](https://t.me/SpyPartyProBot)__ : _Find-the-spy party game for group chats, 3 to 12 players, with secret places sent by private message. Free, Pro optional._
 - __[Tower Defense Bliss](https://t.me/TowerDefenceGame_bot?startapp=cp_852fa61276a35155)__ : _A Telegram tower-defense game: place towers beside the path and protect a crystal from enemy waves. Russian interface._
 - __[Who Knows Me Best](https://t.me/Whoknowsmebestbot?start=src_github)__ : _Create a quiz about yourself and find out which friends and family know you best, in 10 languages._
-- __[WordRaceGroupBot](https://t.me/WordRaceGroupBot)__ : _Daily 5-letter word game for group chats, six tries each in a private chat and the group results in the evening; it also works solo. Free, Pro optional._
 
 ### Group Management
 
 - __[AirNope](https://t.me/airnope_bot)__ : _Keeps Telegram groups clean of cryptocurrency "airdrop" spam. [Open Source](https://github.com/cuducos/airnope)._
 - __[Group Help](https://t.me/GroupHelpBot)__ : _Complete bot to manage your groups easily and safely._
+- __[Group Shield](https://t.me/WordRaceGroupBot)__ : _Deletes messages with links, removes join and leave messages and mutes members who flood the chat. Every switch is off until an admin turns it on. Free, Pro optional._
 - __[InviteMemberBot](https://t.me/InviteMemberBot)__ : _Membership bot platform for paid Telegram channels and groups._
+- __[JoinApproveProBot](https://t.me/JoinApproveProBot)__ : _Approves join requests to channels and groups automatically and sends a welcome message. Free, Pro optional._
 - __[Limzo](https://t.me/LimzoRobot?start=kalanakt)__ : _Anti-spam and group protection bot with join captcha, fake-admin and link checks, and flood control, plus weekly group stats._
 - __[OmniGest](https://t.me/OmniGest_bot)__ : _Free all-in-one group management bot with anti-spam, captcha, AI moderation, custom commands, welcome messages, and a web dashboard._
 - __[Rose](https://t.me/MissRose_bot)__ : _Powerful group management bot._
+- __[Subgate](https://t.me/MostLikelyToProBot)__ : _Members must subscribe to the group's channel before they can write. Free for one channel, Pro optional._
 
 ### Downloaders
 
@@ -194,6 +195,7 @@ Telegram is a free, cloud-based messaging app with optional end-to-end encrypted
 ### Social
 
 - __[AnonInboxProBot](https://t.me/AnonInboxProBot)__ : _Anonymous inbox that collects messages sent through a personal link. Free tier, one-time 150 Stars Pro upgrade, Mini App included._
+- __[AnonSayProBot](https://t.me/AnonSayProBot)__ : _Anonymous messages in group chats with /anon. Admins can ban senders. Free, Pro optional._
 - __[Aura](https://t.me/you_aura_bot)__ : _Random one-on-one video chat to meet people worldwide: swipe to match, language filters, built-in mini-games. Free inside Telegram, no install._
 - __[CrushCheckProBot](https://t.me/CrushCheckProBot)__ : _Share your link and friends secretly choose Like, Just friends or Skip. Names appear only when two people like each other. Free, Pro optional._
 - __[T-Social](https://t.me/TSocialAppBot)__ : _TikTok-style social Mini App for Telegram: short clips, trending creators, AI chat characters. 18+._
