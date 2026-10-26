@@ -186,6 +186,7 @@
   - __[Renamer Bot](https://t.me/Renamer_4_Bot)__ : _Fast File/ Video Renamer Bot._
   
   ### Other Bots
+  
  - __[Wikipedia Search](https://t.me/wiki)__ : _Search for wiki article in any chats or groups, no need to add it anywhere. Simply type @wiki in any chat, then type your query (without hitting 'send'). Bot will open a panel with Wikipedia article suggestions. Tap on an item to send it to your chat partner right away._
  - __[Livegram Bot](https://t.me/LivegramBot)__ : _Livegram Bot is a builder of feedback bots for Telegram. This can be used to broadcast messages, get feedback messages in groups, get bot statistics and more._
  - __[Code Stars](https://t.me/code_stars)__ : _Code Stars highlights the most popular GitHub repos from the last hour, helping you discover innovative projects early._
@@ -197,6 +198,7 @@
  - __[ozvuchka_free_bot](https://t.me/ozvuchka_free_bot)__ : _Free Russian TTS bot — text to voice message, lifelike AI voices, no limits._
  - __[FinanceWhisper](https://t.me/FinanceWhisper_bot)__ : _Tracks stocks, crypto, and forex you care about and alerts you on price targets, real percent moves, and genuinely significant news. Talk to it in plain English. Free tier included, premium via Telegram Stars._
  - __[Freelancer Kit Bot](https://t.me/freelancerkitbot)__ : _Send a plain-text invoice description, get back a polished HTML invoice file. Pay per invoice with Telegram Stars, or subscribe for unlimited invoices for 30 days._
+ - __[WalletWatcher Alerts](https://t.me/WalletWatcherAlertsBot)__ : _Sends you a Telegram message whenever a crypto wallet you watch receives or sends funds. Read-only, public addresses only. Free for 1 wallet with no signup, Pro €6/month for 20 wallets. Public demo feed at [@whalemovesalert](https://t.me/whalemovesalert)._
 
   ## OpenSource
   
