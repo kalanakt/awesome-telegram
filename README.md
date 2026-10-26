@@ -81,7 +81,7 @@ Telegram is a free, cloud-based messaging app with optional end-to-end encrypted
 ### Music
 
 - __[Lyrics Bot](https://t.me/find_lyrics_bot)__ : _Sends you the lyrics of any song._
--  __[MusicFlow](https://t.me/allsyncmusbot)__ : _Free Telegram music bot for searching tracks, recognizing songs from audio clips, importing playlists, and editing audio metadata and cover art._
+- __[MusicFlow](https://t.me/allsyncmusbot)__ : _Free Telegram music bot for searching tracks, recognizing songs from audio clips, importing playlists, and editing audio metadata and cover art._
 - __[Music Downloader Bot](https://t.me/songdl_bot)__ : _Download songs, playlists and albums from Spotify, Gaana, YouTube and JioSaavn links. Also recognizes voice messages._
 
 ### Movies and TV
