@@ -263,6 +263,7 @@ Telegram is a free, cloud-based messaging app with optional end-to-end encrypted
 - __[TeleGet](https://github.com/xwc9527/telebackup)__ : _High-speed Telegram file downloader SDK for Python with multi-connection parallel downloading._
 - __[Telegram Archive](https://github.com/GeiserX/Telegram-Archive)__ : _Automated Telegram backup with Docker. Performs incremental backups of messages and media with a web viewer, real-time listener, and push notifications._
 - __[Telegram Media Downloader](https://github.com/rfsbraz/telegram-downloader)__ : _Self-hosted daemon that automatically downloads media from Telegram channels, groups, and forum topics. Supports filtering, duplicate detection, and Docker._
+- __[telegram-mcp-kit](https://github.com/tonydzi/telegram-mcp-kit)__ : _Apache-2.0 setup kit that connects Claude Code, Codex or any MCP client to your own Telegram account through chigwell/telegram-mcp, with a shared daemon, multi-account patches and a watchdog._
 - __[tg-chat-dump](https://github.com/renkagod/tg-chat-dump)__ : _Dumps whole Telegram chats and forums into SQLite, JSONL and one folder per topic at 100,000+ messages a minute: about 110,000/min with two accounts in Telegram's takeout mode, ~4× Telegram Desktop's export measured on the same group._
 
 ### Open Source Bots
