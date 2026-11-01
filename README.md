@@ -250,7 +250,7 @@ Telegram is a free, cloud-based messaging app with optional end-to-end encrypted
 
 - __[Forkgram Android](https://github.com/forkgram/TelegramAndroid)__ : _Fork client of Telegram app for Android._
 - __[Forkgram Desktop](https://github.com/forkgram/tdesktop)__ : _Fork of Telegram Desktop messaging app._
-- __[Guidegram](https://github.com/guidegram/guidegram)__ : _Next-generation portable Telegram desktop client with unlimited multi-account, isolated per-account proxies, local anti-delete audit shield, and group analytics._
+- __[Guidegram](https://github.com/guidegram/guidegram)__ : _High-capacity multi-account Telegram desktop client (100+ isolated profiles with automated anti-censorship proxy routing & planned V2Ray tunneling), featuring Ghost Mode, audit preservation, and a built-in MCP server for AI coding agents._
 - __[Kotatogram Desktop](https://github.com/kotatogram/kotatogram-desktop)__ : _Experimental Telegram Desktop fork._
 - __[Nekogram](https://github.com/Nekogram/Nekogram)__ : _Open-source third-party Telegram client with few but useful mods._
 - __[NekoX](https://github.com/NekoX-Dev/NekoX)__ : _Third-party Telegram client, based on Telegram-FOSS with features added._
