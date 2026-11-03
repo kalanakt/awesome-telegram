@@ -92,7 +92,7 @@ Telegram is a free, cloud-based messaging app with optional end-to-end encrypted
 
 ### Subtitles
 
-__[English Subtitle](https://t.me/subtitle_dl_bot)__ : _Download English movie subtitles._
+- __[English Subtitle](https://t.me/subtitle_dl_bot)__ : _Download English movie subtitles._
 - __[Sinhala Sub Bot](https://t.me/sinhalasubbot)__ : _Sinhala subtitles for movies and TV series._
 
 ### Games
