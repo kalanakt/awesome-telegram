@@ -32,6 +32,7 @@ Pull requests are welcome: add your bot, tool or library, or remove something th
   - [Learning and Reference](#learning-and-reference)
   - [Utilities](#utilities)
 - [Web Tools](#web-tools)
+- [Channels](#channels)
 - [Open Source](#open-source)
   - [Clients](#clients)
     - [Official Clients](#official-clients)
@@ -227,6 +228,10 @@ Telegram is a free, cloud-based messaging app with optional end-to-end encrypted
 - __[TGScope Channel Audit](https://tgscope.io/tools/telegram-channel-audit)__ : _Web tool that shows what share of a Telegram channel's subscribers actually view its posts, compares it with similar channels and forecasts ad views._
 - __[TGScope Channel Creation Date](https://tgscope.io/tools/telegram-channel-creation-date)__ : _Web tool that estimates the creation period of a Telegram channel or supergroup from its username, t.me link or numeric ID._
 - __[Tiny Telegram Tools](https://tg.zovo.one)__ : _22 free Telegram bots, each with a Mini App: countdown timers, reminders, group statistics, bill splitting, habit tracking and more, each with step-by-step guides in 7 languages. [Website](https://tg.zovo.one)._
+
+## Channels
+
+- __[Crawlbench](https://t.me/crawlbench)__ : _Channel for Facebook Marketplace buyers and resellers with listing price checks and flipping tips. [Website](https://crawlbench.com)._
 
 ## Open Source
 
