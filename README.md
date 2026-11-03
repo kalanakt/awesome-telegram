@@ -92,7 +92,7 @@ Telegram is a free, cloud-based messaging app with optional end-to-end encrypted
 
 ### Subtitles
 
-- __[English Subtitle](https://t.me/subtitle_dl_bot)__ : _Download English movie subtitles._
+__[English Subtitle](https://t.me/subtitle_dl_bot)__ : _Download English movie subtitles._
 - __[Sinhala Sub Bot](https://t.me/sinhalasubbot)__ : _Sinhala subtitles for movies and TV series._
 
 ### Games
@@ -113,6 +113,7 @@ Telegram is a free, cloud-based messaging app with optional end-to-end encrypted
 - __[Obereg](https://t.me/obereg_game_bot?startapp=promo_awesome_tg)__ : _A dark folk-horror roguelike inside Telegram. Die mid-run and your loot burns. EN/RU._
 - __[Poker Road](https://t.me/pokerroad_bot?startapp=cp_29e49717fc817484)__ : _Solo Texas Hold'em against computer opponents in Telegram, with virtual chips and no cash prizes. English interface available._
 - __[SpyPartyProBot](https://t.me/SpyPartyProBot)__ : _Find-the-spy party game for group chats, 3 to 12 players, with secret places sent by private message. Free, Pro optional._
+- __[Tap Tim](https://t.me/NeuroTimBot/app?startapp=src_gh_kalanakt)__ : _A clicker Mini App where you grow the cyber-character Tim from an egg through 10 forms, with clans and a card album. Russian interface. Free, optional Stars purchases._
 - __[Tower Defense Bliss](https://t.me/TowerDefenceGame_bot?startapp=cp_852fa61276a35155)__ : _A Telegram tower-defense game: place towers beside the path and protect a crystal from enemy waves. Russian interface._
 - __[Who Knows Me Best](https://t.me/Whoknowsmebestbot?start=src_github)__ : _Create a quiz about yourself and find out which friends and family know you best, in 10 languages._
 
