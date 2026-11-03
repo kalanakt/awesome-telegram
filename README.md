@@ -215,6 +215,7 @@ Telegram is a free, cloud-based messaging app with optional end-to-end encrypted
 ### Utilities
 
 - __[Account Created Date](https://t.me/AccountCreatedBot)__ : _Estimate Telegram account creation dates via forwarded messages, usernames, or contacts. Supports multiple languages._
+- __[Metadata searcher](https://t.me/Metadatarobot)__ : _Inspect and remove supported file metadata in Telegram; images, audio and documents up to 20 MB (Russian interface)._
 - __[RealAddrBot](https://t.me/RealAddrBot)__ : _Free identity & address generator. 21 countries, 3 depth levels (basic/extended/full), built-in temp email inbox on private domain, 12 languages. Generates names, addresses, SSN, credit cards (Luhn-valid). Privacy-first, no logging. [Website](https://realaddrbot.com)._
 - __[TempMail Hub Bot](https://t.me/tempmail_hub_bot)__ : _Temporary email inside Telegram — get a disposable inbox and receive emails and confirmation codes right in the chat. No sign-up, inbox lifetime up to 7 days. [Website](https://tempmailhub.net)._
 
