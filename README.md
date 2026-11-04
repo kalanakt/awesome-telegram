@@ -219,6 +219,7 @@ Telegram is a free, cloud-based messaging app with optional end-to-end encrypted
 
 - __[Account Created Date](https://t.me/AccountCreatedBot)__ : _Estimate Telegram account creation dates via forwarded messages, usernames, or contacts. Supports multiple languages._
 - __[Metadata searcher](https://t.me/Metadatarobot)__ : _Inspect and remove supported file metadata in Telegram; images, audio and documents up to 20 MB (Russian interface)._
+- __[One Buck VPN](https://t.me/onebuck_vpn_bot?start=cat_gh_kalanakt)__ : _VPN right inside Telegram from $2/month: Swedish server on VLESS/Reality, works on mobile internet too. Connect in a minute with Happ or our Android and Windows apps; 1-day free trial; pay by card, crypto or Telegram Stars. [Website](https://1buckvpn.com)._
 - __[RealAddrBot](https://t.me/RealAddrBot)__ : _Free identity & address generator. 21 countries, 3 depth levels (basic/extended/full), built-in temp email inbox on private domain, 12 languages. Generates names, addresses, SSN, credit cards (Luhn-valid). Privacy-first, no logging. [Website](https://realaddrbot.com)._
 - __[SEO Tools](https://t.me/seotoolsbest_bot?start=src-kalanakt)__ : _Curated directory of 180+ SEO and webmaster tools in 21 categories, with TOP picks, search and a Mini App. Free._
 - __[TempMail Hub Bot](https://t.me/tempmail_hub_bot)__ : _Temporary email inside Telegram — get a disposable inbox and receive emails and confirmation codes right in the chat. No sign-up, inbox lifetime up to 7 days. [Website](https://tempmailhub.net)._
