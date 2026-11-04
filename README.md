@@ -224,6 +224,7 @@ Telegram is a free, cloud-based messaging app with optional end-to-end encrypted
 
 ## Web Tools
 
+- __[LurkAPI](https://lurkapi.com/docs/telegram/channel-posts)__ : _Paid API that returns a public channel's info, latest posts and single posts as JSON (text, views, media, reactions), with no account or bot token; 100 free credits at signup._
 - __[OpenSparta](https://opensparta.com/en)__ : _SaaS workspace for managing connected Telegram accounts and proxies, with relevant conversation discovery._
 - __[TeleTraff](https://teletraff.com/en)__ : _Browser panel for running several Telegram accounts: session and tdata import, proxies, account warm-up, AI comments under channel posts and audience parsing._
 - __[TG Gifts](https://tggifts.com/)__ : _Estimates the value of Telegram collectible gifts and usernames from public Fragment listings and sales, with a range and a confidence level. Free to use; the alerts bot @w3radar_bot has a free trial and optional paid plans._
