@@ -268,6 +268,7 @@ Telegram is a free, cloud-based messaging app with optional end-to-end encrypted
 - __[Nicegram Android](https://github.com/nicegram/Nicegram-Android)__ : _Telegram API-based messenger that offers enhanced opportunities for business and personal communication alike._
 - __[Nicegram iOS](https://github.com/nicegram/Nicegram-iOS)__ : _Telegram API-based messenger that offers enhanced opportunities for business and personal communication alike._
 - __[Plus Messenger](https://github.com/rafalense/Plus-Messenger)__ : _Unofficial Android client that uses Telegram's API._
+- __[Quill](https://github.com/shinycake/quill)__ : _Unofficial, open-source Telegram desktop client for macOS, Windows and Linux, written in Rust with TDLib and a GPU-drawn interface (beta)._
 - __[Telegram CLI](https://github.com/vysheng/tg)__ : _Command-line interface for Telegram on Linux._
 - __[Telegram FOSS](https://github.com/Telegram-FOSS-Team/Telegram-FOSS)__ : _FOSS-friendly fork of the original Telegram client for Android._
 - __[tlgr](https://github.com/tlgrcli/tlgr)__ : _Command-line client for a personal Telegram account, built for scripts and AI agents, with JSON output, a background daemon, and webhook event push._
