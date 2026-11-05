@@ -104,6 +104,7 @@ Telegram is a free, cloud-based messaging app with optional end-to-end encrypted
 - __[Bus Station](https://t.me/busstationgame_bot?startapp=cp_6ee938565e951033)__ : _A Telegram bus-color puzzle: match passengers, plan bus order and manage parking bays. English game board._
 - __[Cavegram](https://t.me/CavegramBot)__ : _Free drawing games for group chats: Telephone, Squiggle and Monster._
 - __[Chess Bot](https://t.me/ChessBot)__ : _Play chess with Telegram Chessbot._
+- __[Couscous: Guess the Word](https://t.me/play_couscous_bot?startapp=src_github_kalanakt)__ : _Ask yes-or-no questions to name the secret word a painted couscous is thinking of, with a new riddle of the day. English, Spanish, French, German and Russian._
 - __[Daily Score](https://t.me/DailyScorefootbot/play?startapp=src_github)__ : _Guess the score of the big football match of the day and climb the leaderboard with your friends._
 - __[DnD5Char](https://t.me/dnd5char_bot)__ : _Create and manage D&D 5e characters in Russian, with a Mini App character sheet._
 - __[Gamee](https://t.me/gamee)__ : _Play tons of addictive games without installing any additional apps._
