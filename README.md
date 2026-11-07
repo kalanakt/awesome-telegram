@@ -266,6 +266,7 @@ Telegram is a free, cloud-based messaging app with optional end-to-end encrypted
 
 #### Unofficial Clients
 
+- __[FinchGram](https://github.com/FinchGram/FinchGram)__ : _Unofficial open-source Telegram client for macOS 12+ on Apple silicon, written in Rust with a Slint UI. [Website](https://www.finchgram.com)._
 - __[Forkgram Android](https://github.com/forkgram/TelegramAndroid)__ : _Fork client of Telegram app for Android._
 - __[Forkgram Desktop](https://github.com/forkgram/tdesktop)__ : _Fork of Telegram Desktop messaging app._
 - __[Guidegram](https://github.com/guidegram/guidegram)__ : _High-capacity multi-account Telegram desktop client (100+ isolated profiles with automated anti-censorship proxy routing), featuring Ghost Mode, audit preservation, user presence & profile tracking, group analytics, and a built-in MCP server for AI agents._
