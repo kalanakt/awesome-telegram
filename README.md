@@ -242,6 +242,7 @@ Telegram is a free, cloud-based messaging app with optional end-to-end encrypted
 ## Channels
 
 - __[Crawlbench](https://t.me/crawlbench)__ : _Channel for Facebook Marketplace buyers and resellers with listing price checks and flipping tips. [Website](https://crawlbench.com)._
+- __[币圈线报局](https://t.me/CryptoAlphaBrief)__ : _Daily Chinese-language crypto market brief with BTC, ETH and SOL prices, the Fear and Greed Index and top headlines. Data only, not financial advice._
 
 ## Open Source
 
