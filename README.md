@@ -228,6 +228,7 @@ Telegram is a free, cloud-based messaging app with optional end-to-end encrypted
 
 ## Web Tools
 
+- __[AgedSocials Telegram Account Age Checker](https://agedsocials.com/telegram-account-age-checker/)__ : _Free web tool that estimates when a Telegram account was created from its numeric user ID, with no login._
 - __[LurkAPI](https://lurkapi.com/docs/telegram/channel-posts)__ : _Paid API that returns a public channel's info, latest posts and single posts as JSON (text, views, media, reactions), without a Telegram account or bot token; an API key is required, with 100 free credits at signup._
 - __[OpenSparta](https://opensparta.com/en)__ : _SaaS workspace for managing connected Telegram accounts and proxies, with relevant conversation discovery._
 - __[TeleTraff](https://teletraff.com/en)__ : _Browser panel for running several Telegram accounts: session and tdata import, proxies, account warm-up, AI comments under channel posts and audience parsing._
