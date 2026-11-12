@@ -212,6 +212,7 @@ Telegram is a free, cloud-based messaging app with optional end-to-end encrypted
 
 ### Learning and Reference
 
+- __[AntMill](https://t.me/antmill_poster_bot)__ : _Free crypto-safety education and an anti-scam AI helper, plus a Colony Mini App. [Website](https://antmill-media.pages.dev/)._
 - __[Bible Book Bot](https://t.me/BibleBookBot)__ : _Search the Bible. Also works in inline mode._
 - __[Code Stars](https://t.me/code_stars)__ : _Code Stars highlights the most popular GitHub repos from the last hour, helping you discover innovative projects early._
 - __[LokaSay](https://t.me/LokaSayLanguage_bot?startapp=cp_9d908ebb0f75935c)__ : _English, Thai and Bahasa Indonesia practice in Telegram with Roger the sphynx cat. Russian interface._
