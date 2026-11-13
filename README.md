@@ -220,6 +220,7 @@ Telegram is a free, cloud-based messaging app with optional end-to-end encrypted
 ### Utilities
 
 - __[Account Created Date](https://t.me/AccountCreatedBot)__ : _Estimate Telegram account creation dates via forwarded messages, usernames, or contacts. Supports multiple languages._
+- __[Lunka VPN](https://t.me/lunka_vpn_bot?start=src-cat-gh-kalanakt)__ : _Subscription VPN bot in Russian: one subscription link for up to 5 devices, VLESS with REALITY, servers in 8 countries. 3-day trial, no auto-renewal; pay via SBP or Telegram Stars. [Website](https://lunka.co)._
 - __[Metadata searcher](https://t.me/Metadatarobot)__ : _Inspect and remove supported file metadata in Telegram; images, audio and documents up to 20 MB (Russian interface)._
 - __[One Buck VPN](https://t.me/onebuck_vpn_bot?start=cat_gh_kalanakt)__ : _VPN right inside Telegram from $2/month: Swedish server on VLESS/Reality, works on mobile internet too. Connect in a minute with Happ or our Android and Windows apps; 1-day free trial; pay by card, crypto or Telegram Stars. [Website](https://1buckvpn.com)._
 - __[RealAddrBot](https://t.me/RealAddrBot)__ : _Free identity & address generator. 21 countries, 3 depth levels (basic/extended/full), built-in temp email inbox on private domain, 12 languages. Generates names, addresses, SSN, credit cards (Luhn-valid). Privacy-first, no logging. [Website](https://realaddrbot.com)._
