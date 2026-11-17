@@ -192,6 +192,8 @@ Telegram is a free, cloud-based messaging app with optional end-to-end encrypted
 ### Productivity
 
 - __[Book March Bot](https://t.me/bookmarchbot)__ : _Saves your favorite links so you can find and send them later._
+- __[Broodli](https://t.me/broodli_bot?start=src_awesome)__ : _Family planner for households: a daily plan with real time blocks, shared shopping and task lists, and reminders. Free tier plus a 7-day Pro trial. [Website](https://broodli.com)._
+
 - __[CountdownDaysBot](https://t.me/CountdownDaysBot)__ : _Countdown to a date in a group or private chat, shown as one card that is edited each day. Free for 2 countdowns per chat, Pro optional._
 - __[Crawlbench Alerts](https://t.me/CrawlbenchAlertsBot)__ : _Telegram bot that sends Facebook Marketplace match alerts from Crawlbench. [Website](https://crawlbench.com)._
 - __[DeloPulse](https://t.me/delo_pulse_bot)__ : _Task control for Telegram work groups: one task can be assigned to several people, and each assignee gets a separate status, private reminders and their own report, while the group sees who is done and who is late. Free, with a Mini App for the calendar and stats. [Website](https://delopulse.com)._
