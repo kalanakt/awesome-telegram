@@ -365,6 +365,7 @@ Telegram is a free, cloud-based messaging app with optional end-to-end encrypted
 - __[freqtrade](https://github.com/freqtrade/freqtrade)__ : _Free, open source crypto trading bot._
 - __[rss bot](https://github.com/iovxw/rssbot)__ : _Lightweight Telegram RSS notification bot._
 - __[TediCross](https://github.com/TediCross/TediCross)__ : _Bridges chats between Telegram and Discord._
+- __[Telegram Info Bot](https://github.com/ruslanty/telegram-info-bot)__ : _Find Telegram user and chat IDs, view profile details, and copy IDs with one tap. Built with Python, FastAPI, and aiogram._
 - __[Weight Goal Bot](https://t.me/my_weight_goal_bot)__ : _Apache-2.0 open-source group bot for photo-backed weekly weight goals, charts, reminders, and 53 achievements in nine languages. [Source](https://github.com/IgorShadurin/weight-telegram-bot)._
 - __[ZakupVarta](https://t.me/ProzzoroUkraineBot)__ : _MIT-licensed bot that monitors Prozorro tenders by keywords, region, and budget and alerts users to material changes. [Source](https://github.com/vovasik07/zakupvarta)._
 
