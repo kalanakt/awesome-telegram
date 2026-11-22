@@ -136,6 +136,7 @@ Telegram is a free, cloud-based messaging app with optional end-to-end encrypted
 ### Downloaders
 
 - __[Cyber Collector](https://t.me/cybercollectorbot)__ : _Download videos from TikTok (no watermark), Instagram Reels/Stories, YouTube Shorts, X/Twitter and Facebook. No signup required._
+- __[ReelScraper](https://t.me/reel_scraper_bot)__ : _Send an Instagram or Facebook reel link and get the video back in the chat. Works in group chats too: add it to a group and it replies to every reel link with the video. Free, with optional paid plans. [Website](https://reelscraper.net/telegram-bot)._
 - __[TikTapSaveBot](https://t.me/TikTapSaveBot)__ : _Downloads TikTok, Instagram and X/Twitter videos without the watermark in HD, right inside Telegram. 3 free downloads, then unlock via Telegram Stars. Works inline._
 - __[URL Uploader X](https://t.me/urluploadxbot)__ : _Uploads files to Telegram from a direct link._
 - __[Video Download Bot](https://t.me/VideoDownloadBot)__ : _Download videos from Facebook, Twitter, Instagram, VK and 700 other sources._
