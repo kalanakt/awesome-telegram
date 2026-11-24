@@ -211,6 +211,7 @@ Telegram is a free, cloud-based messaging app with optional end-to-end encrypted
 - __[AnonInboxProBot](https://t.me/AnonInboxProBot)__ : _Anonymous inbox that collects messages sent through a personal link. Free tier, one-time 150 Stars Pro upgrade, Mini App included._
 - __[AnonSayProBot](https://t.me/AnonSayProBot)__ : _Anonymous messages in group chats with /anon. Admins can ban senders. Free, Pro optional._
 - __[Aura](https://t.me/you_aura_bot)__ : _Random one-on-one video chat to meet people worldwide: swipe to match, language filters, built-in mini-games. Free inside Telegram, no install._
+- __[Bloggers Market](https://t.me/BloggersMarketBot?start=src_awesome)__ : _Marketplace Mini App where Instagram micro-bloggers get paid for reposting advertisers' Reels to their stories, and advertisers pay only for confirmed reposts. 12 languages, Telegram Stars and USDT. [Website](https://bloggers-market-production.up.railway.app)._
 - __[CrushCheckProBot](https://t.me/CrushCheckProBot)__ : _Share your link and friends secretly choose Like, Just friends or Skip. Names appear only when two people like each other. Free, Pro optional._
 - __[T-Social](https://t.me/TSocialAppBot)__ : _TikTok-style social Mini App for Telegram: short clips, trending creators, AI chat characters. 18+._
 - __[WhisperLockBot](https://t.me/WhisperLockBot)__ : _Sends a locked message only the intended recipient can open, inline. Free tier, one-time 150 Stars Pro upgrade, Mini App included._
