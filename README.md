@@ -123,6 +123,7 @@ Telegram is a free, cloud-based messaging app with optional end-to-end encrypted
 ### Group Management
 
 - __[AirNope](https://t.me/airnope_bot)__ : _Keeps Telegram groups clean of cryptocurrency "airdrop" spam. [Open Source](https://github.com/cuducos/airnope)._
+- __[FullyAgentic Community Agent](https://t.me/fullyagentic_bot?startgroup=dir_kalanakt)__ : _Free guard for a crypto project's group: removes new members' links outside an allow list, removes lookalike admins, locks the chat during a raid wave and answers /ca with the team's contract. Paid tiers add answers from the project's docs._
 - __[Group Help](https://t.me/GroupHelpBot)__ : _Complete bot to manage your groups easily and safely._
 - __[Group Shield](https://t.me/WordRaceGroupBot)__ : _Deletes messages with links, removes join and leave messages and mutes members who flood the chat. Every switch is off until an admin turns it on. Free, Pro optional._
 - __[GroupGate](https://t.me/GroupGateProBot?start=awesome)__ : _Runs a human check for new members before they post._
