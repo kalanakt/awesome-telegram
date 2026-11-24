@@ -233,6 +233,7 @@ Telegram is a free, cloud-based messaging app with optional end-to-end encrypted
 - __[RealAddrBot](https://t.me/RealAddrBot)__ : _Free identity & address generator. 21 countries, 3 depth levels (basic/extended/full), built-in temp email inbox on private domain, 12 languages. Generates names, addresses, SSN, credit cards (Luhn-valid). Privacy-first, no logging. [Website](https://realaddrbot.com)._
 - __[SEO Tools](https://t.me/seotoolsbest_bot?start=src-kalanakt)__ : _Curated directory of 180+ SEO and webmaster tools in 21 categories, with TOP picks, search and a Mini App. Free._
 - __[TempMail Hub Bot](https://t.me/tempmail_hub_bot)__ : _Temporary email inside Telegram — get a disposable inbox and receive emails and confirmation codes right in the chat. No sign-up, inbox lifetime up to 7 days. [Website](https://tempmailhub.net)._
+- __[Video to Circle](https://t.me/circle_adminhub_bot)__ : _Turns a video into a round Telegram video note you can forward to any chat; a caption like 0:30 sets where it starts. Free, no sign-up, videos up to 20 MB. [Website](https://adminhub.tools/tools/telegram-circle-video/)._
 
 ## Web Tools
 
