@@ -368,13 +368,16 @@ Telegram is a free, cloud-based messaging app with optional end-to-end encrypted
 #### Other Bots
 
 - __[AiogramShopBot](https://github.com/ilyarolf/AiogramShopBot)__ : _Open-source Telegram shop bot built with Aiogram 3, supporting digital and physical product sales, cryptocurrency payments (BTC, ETH, LTC, SOL, BNB, USDT), referral system and web admin panel._
+- __[Auto Reels Captions CLI (@railway_robot)](https://github.com/LUX1984/auto-reels-captions-cli)__ : _Open-source Gemini + FFmpeg/libass CLI & Telegram bot for Reels/Shorts dynamic word-highlighted captions, 640×640 video circles, and .SRT export._
 - __[Broletter](https://github.com/landigf/Broletter)__ : _Personalized daily science briefing bot — reads arXiv every night, explains papers via Gemini, and delivers a tap-to-expand preview card so users only read what interests them. Supports Telegram Stars subscriptions._
 - __[Claude Telegram Supercharged](https://github.com/k1p1l0/claude-telegram-supercharged)__ : _Drop-in upgrade for the official Claude Code Telegram plugin with voice transcription and replies, message history and memory, live tool progress, and a self-restarting daemon._
 - __[English Wikipedia Link Converter](https://github.com/jnton/english-wikipedia-link-converter-telegram-bot)__ : _Telegram bot that converts any non-English Wikipedia link into its English equivalent._
 - __[freqtrade](https://github.com/freqtrade/freqtrade)__ : _Free, open source crypto trading bot._
+- __[Receipt Splitter CLI (@Drat7robot)](https://github.com/LUX1984/receipt-splitter-cli)__ : _Open-source Gemini Vision receipt parser & interactive group bill splitter bot inside Telegram._
 - __[rss bot](https://github.com/iovxw/rssbot)__ : _Lightweight Telegram RSS notification bot._
 - __[TediCross](https://github.com/TediCross/TediCross)__ : _Bridges chats between Telegram and Discord._
 - __[Telegram Info Bot](https://github.com/ruslanty/telegram-info-bot)__ : _Find Telegram user and chat IDs, view profile details, and copy IDs with one tap. Built with Python, FastAPI, and aiogram._
+- __[Voice Summary CLI (@Good_4robot)](https://github.com/LUX1984/voice-summary-cli)__ : _Open-source voice-note cleaner, speaker diarization, and `/tldr` group chat summarizer CLI & Telegram bot._
 - __[Weight Goal Bot](https://t.me/my_weight_goal_bot)__ : _Apache-2.0 open-source group bot for photo-backed weekly weight goals, charts, reminders, and 53 achievements in nine languages. [Source](https://github.com/IgorShadurin/weight-telegram-bot)._
 - __[ZakupVarta](https://t.me/ProzzoroUkraineBot)__ : _MIT-licensed bot that monitors Prozorro tenders by keywords, region, and budget and alerts users to material changes. [Source](https://github.com/vovasik07/zakupvarta)._
 
