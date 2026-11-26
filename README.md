@@ -258,6 +258,7 @@ Telegram is a free, cloud-based messaging app with optional end-to-end encrypted
 - __[远程工作线报](https://t.me/RemoteJobsDailyHub)__ : _Daily Chinese-language roundup of remote job openings with salary ranges and direct application links._
 - __[币圈线报局](https://t.me/CryptoAlphaBrief)__ : _Daily Chinese-language crypto market brief with BTC, ETH and SOL prices, the Fear and Greed Index and top headlines. Data only, not financial advice._
 - __[Python + AI Channel](https://t.me/pythontrendingweekly)__ : _A Chinese-language channel sharing curated Python and AI articles, open-source projects, tools, podcasts and trending topics._
+- __[夸克网盘学习资源](https://t.me/kuake0007)__ : _Daily Chinese-language channel sharing curated learning resources, textbooks, exam prep, ebooks and AI tools via Quark Drive, with a companion web library. [Website](https://joken007.github.io/quark-resource-library/)._
 
 ## Open Source
 
