@@ -287,7 +287,7 @@ Telegram is a free, cloud-based messaging app with optional end-to-end encrypted
 - __[Kotatogram Desktop](https://github.com/kotatogram/kotatogram-desktop)__ : _Experimental Telegram Desktop fork._
 - __[Nekogram](https://github.com/Nekogram/Nekogram)__ : _Open-source third-party Telegram client with few but useful mods._
 - __[NekoX](https://github.com/NekoX-Dev/NekoX)__ : _Third-party Telegram client, based on Telegram-FOSS with features added._
-- __[NexaGram](https://github.com/rumalg123/NexaGram)__ : _Third-party Telegram client, based on Telegram and 64Gram with features added._
+- __[NexaGram](https://github.com/rumalg123/NexaGram)__ : _An unofficial Telegram Desktop fork focused on power-user workflows, persistent resumable downloads, smart message selection, and advanced chat management._
 - __[Nicegram Android](https://github.com/nicegram/Nicegram-Android)__ : _Telegram API-based messenger that offers enhanced opportunities for business and personal communication alike._
 - __[Nicegram iOS](https://github.com/nicegram/Nicegram-iOS)__ : _Telegram API-based messenger that offers enhanced opportunities for business and personal communication alike._
 - __[Plus Messenger](https://github.com/rafalense/Plus-Messenger)__ : _Unofficial Android client that uses Telegram's API._
